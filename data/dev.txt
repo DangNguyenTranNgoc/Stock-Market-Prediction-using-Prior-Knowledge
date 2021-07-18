@@ -1,0 +1,106 @@
+__label__FIN#neutral VinGroup chỉ bán ra hơn 12 triệu cổ phiếu Vinatex (VGT), bằng một nửa số lượng đăng ký bán
+__label__FIN#positive Bầu Đức vừa chi hơn 33 tỷ mua 3 triệu cổ phiếu HAGL Agrico (HNG)
+__label__FIN#negative VnIndex giảm 9 điểm phiên cuối tuần, HDB, TPB, HPG bứt phá
+__label__FIN#positive ‘Giá trị giao dịch TTCK Việt Nam gần ngang ngửa Singapore, trội hơn hẳn Malaysia, NĐT nước ngoài khó mà làm ngơ thị trường này lâu hơn nữa!’
+__label__FIN#neutral Những con số nổi bật của thị trường chứng khoán Việt Nam tháng 4
+__label__FIN#positive May Việt Tiến (VGG): Quý 1 có lãi hơn 5 tỷ đồng nhờ tiết kiệm chi phí
+__label__FIN#neutral CRE, HNG, BWE, S4A, ST8, NLG, IDC, CSC, AAV, VKC, VC7, DBT, TMS, TNT: Thông tin giao dịch lượng lớn cổ phiếu
+__label__FIN#neutral Lịch sự kiện và tin vắn chứng khoán ngày 7/5
+__label__FIN#positive Một doanh nghiệp sắp trả cổ tức bằng tiền gấp 20 lần thị giá
+__label__FIN#neutral Nhân viên Masan sắp nhận số cổ phiếu trị giá 560 tỷ đồng với giá mua chỉ bằng 1/10
+__label__FIN#neutral Chiến lược đầu tư cổ phiếu nào thích hợp trong tháng 5?
+__label__FIN#negative Khối ngoại bán ròng hơn 1.100 tỷ đồng, tập trung “xả” Bluechips trong phiên 6/5
+__label__FIN#positive FECON: LNST quý 1 tăng 15% lên 17,4 tỷ đồng
+__label__FIN#neutral Lịch chốt quyền nhận cổ tức bằng tiền của 23 doanh nghiệp
+__label__FIN#positive Gang thép Hà Nội (HSV) báo lãi quý 1 hơn 1,98  tỷ đồng, hoàn thành 57% kế hoạch cả năm 2021
+__label__FIN#neutral "Nhà đầu tư F0 dễ sập bẫy ""room"" phím hàng"
+__label__FIN#neutral "Tundra: ""Dịch Covid-19 vẫn trong tầm kiểm soát, đây là thời điểm tốt để tích lũy cổ phiếu"""
+__label__FIN#neutral Nhóm Bluechips VN30 dẫn dắt, VN-Index có thể lên sát mốc 1.400 điểm trong năm 2021?
+__label__FIN#neutral Bloomberg: Dogecoin khiến các loại tài sản như vàng hay cổ phiếu trở nên lỗi thời
+__label__FIN#positive Quỹ 2 tỷ USD của Dragon Capital tăng mạnh tỷ trọng VPB và NVL vào cuối tháng 4
+__label__FIN#negative HoSE: Trong tháng 4/2021, khối ngoại giảm bán ròng mạnh, đã chuyển 11 mã cổ phiếu sang HNX
+__label__FIN#negative Áp lực bán tăng mạnh, VN-Index giữ được mốc 1.250 điểm nhờ lực đỡ từ cổ phiếu ngân hàng, thép
+__label__FIN#positive Lãi lớn gấp 32 lần cùng kỳ nhờ chuyển nhượng bất động sản, một doanh nghiệp ngành nước, môi trường sắp trả cổ tức tỷ lệ gần 61%
+__label__FIN#positive Chủ tịch HĐQT Tập đoàn Dabaco đăng ký mua 10,5 triệu cổ phiếu DBC
+__label__FIN#positive Nhiều cổ phiếu trong rổ tăng nóng, quy mô của “ETF ngân hàng” VN FINLEAD vượt 100 triệu USD
+__label__FIN#neutral VIC, DBC, BWE, IDV, QBS, ITD, HDC, SOV, BVG, SNC, TMT, SPB, SJM: Thông tin giao dịch lượng lớn cổ phiếu
+__label__FIN#neutral Lịch sự kiện và tin vắn chứng khoán ngày 6/5
+__label__FIN#positive "Chứng khoán BSC: ""VN-Index có thể hướng về ngưỡng 1.300 điểm trong tháng 5"""
+__label__FIN#neutral Đầu tư cổ phiếu Midcaps hay Bluechips?
+__label__FIN#positive Lượng hàng hóa qua cảng tăng, Cảng Hải Phòng (PHP) báo lãi tăng 42% lên 173 tỷ đồng trong quý 1
+__label__FIN#negative Không còn khoản lãi thoái vốn đầu tư, OCH báo lỗ 34 tỷ đồng trong quý 1/2021
+__label__FIN#positive Vinacafe Biên Hòa (VCF) báo lãi 76 tỷ đồng trong quý 1, giảm 26% so với cùng kỳ
+__label__FIN#neutral Dược Cửu Long (DCL) lên tiếng về quyết định khởi tố vụ án hình sự xảy ra tại công ty
+__label__FIN#negative Gỗ Trường Thành (TTF): Quý 1/2021 lỗ ròng 40 tỷ đồng, vốn chủ đang âm 624 tỷ
+__label__FIN#positive KQKD ngành khu công nghiệp quý 1: Nhiều doanh nghiệp lãi lớn, quán quân thuộc về công ty lãi gấp 8 lần cùng kỳ
+__label__FIN#positive HDB, TCB bứt phá, VnIndex chốt phiên tăng 14 điểm
+__label__FIN#positive VC3 tăng mạnh, Chủ tịch HĐQT Tập đoàn Nam Mê Kông vẫn chi hơn 300 tỷ đồng mua gần 15 triệu cổ phiếu
+__label__FIN#neutral LDG, NLG, CRE, HNG, ITA, TEG, PAC, TRT, PTL, SHB, VC3, MHL: Thông tin giao dịch lượng lớn cổ phiếu
+__label__FIN#positive Nhựa An Phát Xanh đấu giá thành công 75 triệu cổ phiếu, thu về gần 1.068 tỷ đồng
+__label__FIN#positive Siam Brothers Việt Nam kỳ vọng lợi nhuận tăng đột biến
+__label__FIN#neutral Ngày làm bảo vệ, tối nghiên cứu chứng khoán, người đàn ông trở thành triệu phú sở hữu 8 triệu USD nhưng người nhà không hề biết
+__label__FIN#neutral "Sau hơn 6 thập kỷ, thương hiệu vang bóng một thời Diêm Thống Nhất đã không còn ""cháy sáng"""
+__label__FIN#neutral Bộ Tài chính: “Chưa có kế hoạch tiếp tục nâng lô giao dịch, FPT đang gấp rút khắc phục sự cố nghẽn lệnh”
+__label__FIN#neutral Bộ Tài chính “tuýt còi” các Công ty chứng khoán “biến tướng” huy động vốn từ khách hàng
+__label__FIN#neutral Lịch sự kiện và tin vắn chứng khoán ngày 5/5
+__label__FIN#positive Vinaconex (VCG): Quý 1 lãi 345 tỷ đồng gấp hơn 5 lần cùng kỳ
+__label__FIN#positive Hoàng Anh Gia Lai (HAG): Tiếp tục bán thảo thuận 80 triệu cổ phần tại HAGL Agrico, dự thu hàng trăm tỷ nhằm tái cấu trúc nợ ngân hàng
+__label__FIN#positive Quốc Cường Gia Lai (QCG): Doanh thu đột biến nhờ bàn giao dự án, lãi ròng vẫn giảm mạnh 43% trong quý 1/2021
+__label__FIN#neutral HAGL là công ty gì sau khi bán HNG cho Thaco?
+__label__FIN#positive VEAM báo lãi 1.446 tỷ đồng trong quý 1/2021, vẫn còn hơn 14.000 tỷ đồng đi gửi ngân hàng
+__label__FIN#negative Thị trường rung lắc mạnh, khối ngoại bán ròng 650 tỷ đồng trong phiên 4/5
+__label__FIN#positive Đầu tư Sài Gòn VRG (SIP) bất ngờ báo lãi quý 1 gấp 4 lần cùng kỳ
+__label__FIN#positive Doanh nghiệp kinh doanh kềm duy nhất trên sàn sắp trả cổ tức gấp đôi thị giá
+__label__FIN#negative "Bloomberg: Nhà đầu tư cá nhân đang ""gồng gánh"" đà tăng tốt nhất châu Á của chứng khoán Việt Nam, khi nào khối ngoại mới quay trở lại?"
+__label__FIN#positive Đại hội cổ đông IDJ thông qua kế hoạch kinh doanh tăng trưởng doanh thu nghìn tỷ
+__label__FIN#negative Doanh thu bất động sản sụt giảm, PCC1 báo lãi 80 tỷ đồng quý 1, giảm 10%
+__label__FIN#neutral Quỹ từ thiện của Bill Gates và vợ là một trong hai cổ đông lớn nhất của VEIL, quỹ đầu tư quản lý 2 tỷ USD cổ phiếu Việt Nam
+__label__FIN#neutral Lịch chốt quyền nhận cổ tức bằng tiền của 20 doanh nghiệp
+__label__FIN#positive TCB, CTG tăng mạnh mẽ, VnIndex tăng trong phiên giao dịch đầu tiên của tháng 5
+__label__FIN#neutral Điểm danh những doanh nghiệp chốt quyền nhận cổ tức bằng tiền, bằng cổ phiếu và cổ phiếu thưởng tuần từ 4/5-7/5
+__label__FIN#neutral Tiêu điểm xử phạt tuần qua: Loạt cá nhân và doanh nghiệp bị UBCKN phạt nặng
+__label__FIN#positive Bamboo Capital (BCG): Quý 1 lãi 163 tỷ đồng cao gấp 20 lần cùng kỳ
+__label__FIN#neutral Lịch sự kiện và tin vắn chứng khoán ngày 4/5
+__label__FIN#positive PV Power (POW): Quý 1 lãi sau thuế đạt 566 tỷ đồng, tăng 12% so với cùng kỳ
+__label__FIN#positive Hơn 2.500 tỷ đồng đổ vào TTCK Việt Nam ngay trước kỳ nghỉ lễ thông qua 3 quỹ ETFs
+__label__FIN#positive Gelex (GEX): LNST quý 1 tăng 211% lên 291 tỷ đồng, lãi kinh doanh chứng khoán tăng mạnh
+__label__FIN#positive SAM Holdings (SAM) báo lãi quý 1 tăng gấp 4,5 lần cùng kỳ nhờ nguồn thu tài chính
+__label__FIN#neutral Warren Buffett gửi lời khuyên đặc biệt đến các nhà đầu tư mới
+__label__FIN#negative VNDIRECT: Rủi ro “Sell in May” gia tăng, VN-Index có thể về dưới 1.200 điểm trong tháng 5
+__label__FIN#positive Mã chứng khoán liên quan tới Techcombank tăng 3,5 lần trong vòng 1 tháng
+__label__FIN#positive Kinh Bắc (KBC) đạt lợi nhuận kỷ lục trong quý 1/2021 với 599 tỷ đồng, cao gấp 11 lần cùng kỳ
+__label__FIN#neutral Cơ hội đầu tư cổ phiếu từ cuộc đua tăng vốn của các Công ty chứng khoán
+__label__FIN#positive Mạnh tay chi quảng cáo, khuyến mại, lợi nhuận quý 1 của Lộc Trời phục hồi mạnh lên 182 tỷ đồng
+__label__FIN#positive Becamex (BCM): Quý 1 lãi 457 tỷ đồng, tăng 47% so với cùng kỳ 2020
+__label__FIN#positive Transimex (TMS): Quý 1 lãi ròng 99 tỷ đồng – cao nhất trong lịch sử niêm yết
+__label__FIN#positive Vinacomin Power (DTK): Quý 1 lãi 208 tỷ đồng tăng 44% so với cùng kỳ
+__label__FIN#positive Doanh thu tăng cao, quý 1 Habeco lãi ròng gần 64 tỷ đồng
+__label__FIN#neutral Doanh thu hơn 1 tỷ USD của Vingroup trong quý đầu năm đến từ những gì?
+__label__FIN#positive Sabeco đã thoái hết vốn tại OCB, lợi nhuận ròng quý 1 tăng gần 38%
+__label__FIN#negative "Hoàng Anh Gia Lai (HAG): Bán đi ""đứa con"" nông nghiệp, quy mô tài sản giảm phân nửa, doanh thu cũng chỉ bằng ¼ cùng kỳ với 284 tỷ đồng"
+__label__FIN#positive FPT Retail (FRT): Quý 1/2021 thực hiện 1/3 kế hoạch lãi cả năm với 31 tỷ đồng, bắt đầu tham gia bán đồng hồ thương hiệu Garmin
+__label__FIN#negative Coteccons (CTD): Lợi nhuận quý 1/2021 giảm mạnh 56% xuống còn 54,4 tỷ đồng
+__label__FIN#neutral Khối ngoại chấm dứt chuỗi 6 tháng bán ròng liên tiếp trên HoSE giao dịch thỏa thuận đột biến
+__label__FIN#negative "HAGL Agrico (HNG): Doanh thu giảm phân nửa xuống 260 tỷ sau quý đầu tiên do Thaco ""cầm lái"", 3 tháng thực hiện 12% chỉ tiêu cả năm 2021"
+__label__FIN#positive Gemadept (GMD): Quý 1 lãi 172 tỷ đồng tăng 40% so với cùng kỳ
+__label__FIN#positive ĐHĐCĐ FRT: Kế hoạch LNTT tăng 320% lên 120 tỷ đồng, năm 2021 nhận thêm cơ hội từ hãng Apple khi miếng bánh kênh chính ngạch tăng mạnh
+__label__FIN#positive EVNGenco 3 (PGV): Ghi nhận chênh lệch tỷ giá, lãi ròng quý 1/2021 đột biến lên 786 tỷ đồng
+__label__FIN#positive Nhà Khang Điền (KDH): Quý 1 lãi 207 tỷ đồng tăng 33% so với cùng kỳ
+__label__FIN#positive Everpia (EVE): Doanh thu đi ngang, lãi quý 1 hơn 4,5 tỷ đồng
+__label__FIN#negative Lỗ thêm 4.900 tỷ trong quý 1, tổng lỗ lũy kế của Vietnam Airlines đã lên hơn 14.200 tỷ, nguy cơ âm vốn cận kề
+__label__FIN#negative Kinh doanh dưới giá vốn khiến quý 1 PV Drilling (PVD) lỗ 110 tỷ đồng
+__label__FIN#neutral Ông Dominic Scriven 'khoe' là khách hàng đầu tiên của quỹ hưu trí do Dragon Capital triển khai
+__label__FIN#positive Sơn Hà (SHI) báo lãi quý 1 hơn 40 tỷ, hoàn thành gần 40% kế hoạch năm 2021
+__label__FIN#positive Khoáng sản TKV: Quý 1 lãi 151 tỷ đồng cao gấp 6 lần cùng kỳ 2020
+__label__FIN#positive Mở rộng sang lĩnh vực khóa thông minh, Việt Tiệp sống tốt với lợi nhuận hàng chục tỷ mỗi năm
+__label__FIN#positive Tân Tạo (ITA): Quý 1 lãi 58 tỷ đồng tăng, 127% so với cùng kỳ 2020
+__label__FIN#negative Đường sắt Hà Nội và Sài Gòn tiếp tục lỗ trong quý 1
+__label__FIN#negative Thị trường tăng điểm, khối ngoại quay đầu bán ròng gần 400 tỷ đồng trong phiên 29/4
+__label__FIN#negative May Nhà Bè (MNB): Quý 1 lỗ 20 tỷ đồng, thấp nhất từ khi lên sàn
+__label__FIN#positive Masan Group (MSN): Doanh thu quý 1/2021 tăng hơn 13% lên gần 20.000 tỷ đồng
+__label__FIN#positive Ngành thép quý 1: Lợi nhuận tăng hàng chục lần so với cùng kỳ, quán quân tăng trưởng thuộc về doanh nghiệp có lãi gấp 30 lần
+__label__FIN#positive Thép Tiến Lên (TLH): Quý 1 lãi 120 tỷ đồng – cao nhất trong vòng 4 năm qua
+__label__FIN#positive Vicostone (VCS): Quý 1 lãi 371 tỷ đồng, tăng 22% so với cùng kỳ
+__label__FIN#neutral Bị tag hẳn tên vào bài đăng tố 'làm giá' Bitcoin, âm thầm mua đáy, bán đỉnh, thao túng thị trường, Elon Musk đáp trả 1 câu hút gần 100.000 lượt thích
+__label__FIN#neutral Lịch chốt quyền nhận cổ tức bằng tiền của 7 doanh nghiệp
+__label__FIN#neutral """Sức nóng"" của việc lấy bằng lái xe ""đẩy"" giá cổ phiếu của doanh nghiệp sát hạch lái xe duy nhất trên sàn chứng khoán"

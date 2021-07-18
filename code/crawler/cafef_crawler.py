@@ -55,7 +55,8 @@ def main():
     Push callback method and url to queue
     """
     cafef_df = parse_list_page()
-    cafef_df['DateTime'] = pd.to_datetime(cafef_df['DateTime'], format=r'%Y%m%d%H%M%S')
+    # dt.date remove time from date time
+    cafef_df['DateTime'] = pd.to_datetime(cafef_df['DateTime'], format=r'%Y%m%d%H%M%S').dt.date
     cafef_df.reset_index(drop=True, inplace=True)
     cafef_df.to_csv('{}{}news_cafef.csv'.format(DATA_FOLDER, os.sep), encoding='utf-8')
 
