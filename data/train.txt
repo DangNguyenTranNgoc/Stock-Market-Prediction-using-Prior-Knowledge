@@ -1,0 +1,897 @@
+__label__FIN#positive "Thị trường tăng ""nóng"", hàng loạt doanh nghiệp đăng ký bán cổ phiếu quỹ, Vinhomes và Sacombank cũng nhập cuộc"
+__label__FIN#positive Petrosetco (PET) chuẩn bị phát hành 4 triệu cổ phiếu ESOP giá 10.000 đồng/cp
+__label__FIN#neutral Điểm danh những doanh nghiệp chốt quyền nhận cổ tức bằng tiền, bằng cổ phiếu và cổ phiếu thưởng tuần từ 12/7 - 16/7
+__label__FIN#neutral Lịch sự kiện và tin vắn chứng khoán ngày 9/7
+__label__FIN#negative Giá cổ phiếu đang chạy trước lợi nhuận, nhà đầu tư cần cẩn trọng với nhịp điều chỉnh ngắn hạn và vùng trũng thông tin trong nửa cuối năm 2021
+__label__FIN#neutral HND, ILA, HNA, NED, TTZ, APS, KDM, SCG, GKM, DS3, PPE: Thông tin giao dịch lượng lớn cổ phiếu
+__label__FIN#positive Gần 62 triệu cổ phiếu của ngân hàng NCB vừa được thỏa thuận với giá 20.000 đồng/cp trong 2 phiên giao dịch
+__label__FIN#neutral Lạm phát quan trọng với xu hướng thị trường chứng khoán nhưng không phải là tất cả
+__label__FIN#positive Sữa Quốc tế (IDP) chốt quyền nhận cổ tức bằng tiền tỷ lệ 50%
+__label__FIN#negative Phiên 8/7: Thị trường đảo chiều liên tục, khối ngoại quay đầu bán ròng hơn 257 tỷ đồng, tâm điểm NVL
+__label__FIN#positive Novaland huy động thành công 300 triệu USD trái phiếu chuyển đổi quốc tế
+__label__FIN#negative Người nhà CEO của Chứng khoán APS đăng ký bán hơn 1,9 triệu cổ phiếu APS
+__label__FIN#positive "Coteccons trúng loạt thầu tổng giá trị hơn 6.000 tỷ đồng, trong đó có ""siêu"" dự án Ecopark"
+__label__FIN#positive Cảng Phước An đưa 150 triệu cổ phiếu lên giao dịch trên Upcom
+__label__FIN#positive Digiworld (DGW): Ước lợi nhuận quý 2/2021 đạt 101 tỷ đồng, tăng 110% so với cùng kỳ
+__label__FIN#positive Fubon FTSE Vietnam ETF giải ngân gần 900 tỷ đồng mua cổ phiếu Việt Nam trong những ngày đầu tháng 7
+__label__FIN#positive Đất Xanh Services (DXS) chốt ngày giao dịch đầu tiên trên HNX, giá chào sàn 32.000 đồng/cp
+__label__FIN#negative Thị trường rung lắc dữ dội, VN-Index mất gần 14 điểm với thanh khoản sụt giảm
+__label__FIN#positive Đất Xanh (DXG): Sau Chủ tịch Lương Trí Thìn, quỹ ngoại Dragon Capital mua vào 1 triệu cổ phiếu
+__label__FIN#positive "Chứng khoán BSC: ""Quỹ ngoại mua ròng trở lại, Vn-Index hướng về vùng 1.500 điểm trong quý 3/2021"""
+__label__FIN#positive Chứng khoán Rồng Việt (VDSC): Lãi sau thuế 6 tháng đã vượt 70% kế hoạch cả năm với 245 tỷ đồng, cao gấp 18,6 lần cùng kỳ
+__label__FIN#neutral Lịch chốt quyền nhận cổ tức bằng tiền của 16 doanh nghiệp
+__label__FIN#positive Thủy điện sông Ba Hạ (SBH) chi gần 250 tỷ đồng trả cổ tức
+__label__FIN#positive Gỗ Đức Thành (GDT): 6 tháng thực hiện 50% chỉ tiêu doanh thu với 210 tỷ đồng, tăng 25% so với cùng kỳ
+__label__FIN#positive Cấp thoát nước Long An (LAW): Quý 2 lãi 3,5 tỷ đồng giảm 36% so với cùng kỳ
+__label__FIN#positive PV GAS: LNST quý 2/2021 tăng 31% lên 2.245 tỷ đồng
+__label__FIN#neutral VN-Index sẽ rung lắc mạnh tại vùng 1.400 điểm?
+__label__FIN#neutral VNDIRECT thay đổi chính sách để nâng cao chất lượng dịch vụ bảng giá
+__label__FIN#neutral Hàng loạt CTCK gặp lỗi sự cố, Chủ tịch FPT IS khẳng định không có xung đột giữa hệ thống mới và cũ
+__label__FIN#neutral Ông Lê Hải Trà giải thích về sự cố ở các công ty chứng khoán sáng 7-7
+__label__FIN#positive Phó Chủ tịch HĐQT của DIC Corp đăng ký mua 5 triệu cổ phiếu DIG
+__label__FIN#positive Cổ phiếu bán lẻ đồng loạt tăng trần bất chấp ảnh hưởng Covid-19
+__label__FIN#positive Công ty bán phồng tôm chốt danh sách cổ đông phát hành hơn 4,2 triệu cổ phiếu trả cổ tức
+__label__FIN#positive Fubon FTSE Vietnam ETF trở lại giải ngân vào chứng khoán Việt Nam
+__label__FIN#positive Thị trường bật tăng trở lại, khối ngoại mua ròng hơn 2.000 tỷ đồng trong phiên 7/7
+__label__FIN#positive Dragon Capital tiếp tục bán 1 triệu cổ phiếu KBC trong những ngày đầu tháng 7
+__label__FIN#positive Vietnam Airlines ký hợp đồng tín dụng với 3 ngân hàng, giải ngân gói hỗ trợ 4.000 tỷ đồng
+__label__FIN#positive Novaland (NVL) lấy ý kiến cổ đông về việc phát hành hơn 884 triệu cổ phiếu thưởng và trả cổ tức
+__label__FIN#positive Hoàng Anh Gia Lai (HAGL): Sắp rót 50 tỷ lập công ty sản xuất điện sinh khối tại Kon Tum
+__label__FIN#negative Tundra bán LPB, đưa ACV vào top 10 khoản đầu tư lớn nhất danh mục
+__label__FIN#positive VPS tiếp tục giữ vững vị trí số 1 về thị phần môi giới HNX, UPCom trong quý 2/2021
+__label__FIN#neutral Hệ thống giao dịch SSI gặp sự cố, dừng các kênh nhận lệnh trong sáng 7/7
+__label__FIN#neutral Tiêu điểm xử phạt tuần qua: Rất nhiều cá nhân và doanh nghiệp bị UBCKNN phạt
+__label__FIN#positive "SSI Research: Nửa đầu năm 2021, các quỹ ETF ""hút"" ròng gần 600 triệu USD, gấp 2,6 lần cả năm trước"
+__label__FIN#positive Hàng loạt cổ phiếu tím lịm, VnIndex tăng 34 điểm, VN30-Index tăng vọt 51 điểm
+__label__FIN#positive Chủ tịch HĐQT Đất Xanh Group đăng ký mua 10 triệu cổ phiếu DXG
+__label__FIN#positive "Thị trường chứng khoán phái sinh đã ""xanh mướt"", phiên giảm sâu hôm qua chỉ là cú ""bear trap""?"
+__label__FIN#neutral Sau phiên giảm điểm bất bình thường, thị trường chứng khoán liệu có nhanh chóng hồi phục lại?
+__label__FIN#neutral Lịch sự kiện và tin vắn chứng khoán ngày 7/7
+__label__FIN#neutral Góc nhìn CTCK: Nhà đầu tư chưa vội bắt đáy sau phiên giảm sốc, nên đưa tỷ trọng danh mục về mức cân bằng
+__label__FIN#positive Thị phần môi giới HoSE quý 2/2021: VPS củng cố vị trí số 1, nới rộng khoảng cách với các công ty phía sau
+__label__FIN#neutral TCB, MSB, VIB, KBC, OCB, SMC, DXG, GEX, DHC, CDC, VC3, NDN, CMX, NED, NTP: Thông tin giao dịch lượng lớn cổ phiếu
+__label__FIN#positive Nhựa An Phát Xanh (AAA) dự kiến phát hành gần 30 triệu cổ phiếu thưởng để tăng vốn cổ phần
+__label__FIN#neutral HoSE: Thông tin sự cố trong phiên ATC là giả mạo
+__label__FIN#positive Thủy điện Gia Lai (GHC) triển khai phương án chào bán gần 16 triệu cổ phiếu cho cổ đông hiện hữu
+__label__FIN#negative VN-Index giảm mạnh nhất trong gần 6 tháng, vốn hóa HoSE bị “thổi bay” hơn 200.000 tỷ đồng trong phiên 6/7
+__label__FIN#neutral Nhà đầu tư cổ phiếu Công ty cổ phần Đạt Phương (DPG) cần biết
+__label__FIN#positive Nhà đầu tư nội mở kỷ lục hơn 620 nghìn tài khoản chứng khoán sau 6 tháng đầu năm, lớn hơn tổng lượng tài khoản năm 2020 và 2019 cộng lại
+__label__FIN#positive Chủ tịch HĐQT Tập đoàn Nam Mê Kông đăng ký mua tiếp 16,5 triệu cổ phiếu VC3
+__label__FIN#negative Thị trường “bốc hơi” hơn 56 điểm, khối ngoại trở lại mua ròng trong phiên 6/7
+__label__FIN#negative "SSI Research: ""Định giá thị trường hiện tại không an toàn cho các giao dịch mua mới"""
+__label__FIN#positive Tập đoàn Trí Việt (TVC) chào bán hơn 34 triệu cổ phiếu, tăng vốn điều lệ lên gấp rưỡi
+__label__FIN#positive Thanglong Invest (TIG) chào bán riêng lẻ 30 triệu cổ phiếu, một nhà đầu tư dự chi 210 tỷ đồng mua 20 triệu cổ phiếu
+__label__FIN#neutral Chân dung tân Tổng Giám đốc Thaiholdings
+__label__FIN#neutral Pyn Elite Fund hạ tỷ trọng cổ phiếu ngân hàng, gia tăng nắm giữ VHM trong tháng 6
+__label__FIN#positive MBB bứt phá ấn tượng ngay nửa đầu năm 2021
+__label__FIN#positive Phát Đạt (PDR): Cổ phiếu tăng nóng hơn 2,3 lần lên 94.000 đồng/cp và được dùng làm đảm bảo cho khoản huy động mới 230 tỷ đồng
+__label__FIN#positive Xây dựng Hòa Bình (HBC) trúng thầu thêm 2 dự án mới, tổng giá trị 761 tỷ đồng
+__label__FIN#negative Hàng loạt cổ phiếu bất ngờ giảm sàn, VnIndex rơi 56 điểm trong sự bất ngờ của nhà đầu tư
+__label__FIN#positive Chuỗi cầm đồ F88 tiếp tục huy động thành công 100 tỷ trái phiếu, lãi suất 12,5%/năm
+__label__FIN#negative Thuỷ sản Nam Việt (ANV): Bỏ ngỏ kế hoạch quay lại thị trường Mỹ trong năm 2021, lợi nhuận 5 tháng ước đạt 114 tỷ đồng
+__label__FIN#positive Thép Pomina : Thông qua kế hoạch phát hành 70 triệu cổ phiếu, tăng vốn lên 3.500 tỷ đồng trong năm 2021
+__label__FIN#positive Sau 3 năm, vốn VinHomes lại lớn hơn Vingroup, giá trị của TCB vượt qua cả BIDV lẫn Vietinbank
+__label__FIN#positive Một doanh nghiệp chăn nuôi chốt quyền nhận cổ tức bằng tiền tỷ lệ gần 83%
+__label__FIN#neutral "VNDIRECT: ""Công nghệ 5G sẽ là động lực mới trong ngành Công nghệ - Viễn thông"""
+__label__FIN#negative Phiên 5/7: Khối ngoại quay đầu bán ròng, tập trung bán CTG, HPG
+__label__FIN#positive "VNDIRECT: ""Nhu cầu thuê đất KCN tăng cao trong nửa cuối năm 2021 và sang cả năm 2022"""
+__label__FIN#positive IPAAM: “VN-Index định giá ở mức hợp lý, những đợt điều chỉnh trong tương lai là cơ hội gia tăng tỷ trọng đầu tư”
+__label__FIN#positive Rạng Đông Holdings (RDP): Lên kế hoạch chào bán 20 triệu cổ phiếu với giá không thấp hơn 10.000 đồng/cp
+__label__FIN#positive Chứng khoán Đại Nam: Đã phân phối 84 triệu cổ phiếu cho 2 tổ chức và 14 cá nhân, tăng vốn lên 1.000 tỷ đồng nhằm tham gia thị trường phái sinh
+__label__FIN#positive Chứng khoán SHS: Thị giá tăng mạnh, nhóm liên quan ông Bùi Minh Lực bán ra hơn 3 triệu cổ phiếu và không còn là cổ đông lớn
+__label__FIN#positive GVR: Mảng khu công nghiệp sẽ đem về lợi nhuận chính, kế hoạch lợi nhuận năm 2021 vào mức 4.564 tỷ đồng
+__label__FIN#neutral Thiên Nam Group tổ chức Đại hội đồng Cổ đông thành công
+__label__FIN#neutral Được đánh giá là ngành kinh doanh an toàn nhất, lý do gì khiến cổ phiếu ngành cấp nước chưa thu hút dòng tiền trên TTCK?
+__label__FIN#neutral Cảng Đồng Nai (PDN) chốt danh sách cổ đông nhận cổ tức đợt 2/2020 bằng tiền tỷ lệ 20%
+__label__FIN#neutral Các quỹ ETFs sẽ mua bán ra sao trong kỳ tái cơ cấu tháng 7?
+__label__FIN#positive Sơ bộ KQKD quý 2/2021: Nhóm ngân hàng, thép, xăng dầu đồng loạt tăng trưởng dương, lợi nhuận doanh nghiệp đầu ngành TCB, HPG, PLX… thậm chí tăng bằng lần
+__label__FIN#positive Quy chế giao dịch mới: Giữ nguyên lô giao dịch 100 cổ phiếu, HoSE có quyền yêu cầu tạm ngừng việc sửa, hủy lệnh trong thời gian khớp lệnh liên tục
+__label__FIN#neutral Xu thế dòng tiền: Có hệ thống giao dịch mới, thị trường dễ bị “đánh úp”?
+__label__FIN#positive "Thanh khoản trở về ngưỡng ""tỷ đô"" khi hệ thống giao dịch mới được vận hành, thị trường chứng khoán hồi phục mạnh"
+__label__FIN#neutral Lịch sự kiện và tin vắn chứng khoán ngày 5/7
+__label__FIN#positive FIT, BMI và 3 cổ phiếu ngành chứng khoán có thể lọt vào danh mục VNFinLead ETF trong kỳ review tháng 7?
+__label__FIN#negative Mirae Asset: “Thị trường có thể sớm điều chỉnh trong tháng 7, VN-Index lùi về vùng 1.200 điểm”
+__label__FIN#positive Tự doanh CTCK bán ròng tuần thứ 5 liên tiếp với 930 tỷ đồng
+__label__FIN#neutral "Chủ tịch FPT IS: ""Chúng tôi đã tầm soát rất kỹ và sẵn sàng các giải pháp để hệ thống vận hành an toàn’"
+__label__FIN#positive Chứng khoán APEC mạnh tay chi tiền tỷ tri ân cổ đông
+__label__FIN#neutral SMC nhà sản xuất và phân phối thép uy tín, hiệu quả
+__label__FIN#negative Hoàng Anh Gia Lai (HAGL) tiếp tục bán thoả thuận 51,5 triệu cổ phần HAGL Agrico, giảm sở hữu xuống 11,43% vốn
+__label__FIN#positive Đặt kế hoạch không tăng trưởng do áp lực Covid-19, công ty con của Vietnam Airlines tiếp tục duy trì mức cổ tức cao ngất 75%
+__label__FIN#positive Chứng khoán SSI: Thị giá lên đỉnh cao, em trai ông Nguyễn Duy Hưng đăng ký bán 800.000 cổ phiếu
+__label__FIN#positive Thực phẩm Sao Ta (FMC): Doanh thu 6 tháng tăng 29% lên 2.279 tỷ đồng
+__label__FIN#neutral VND, SSI, ABB, AAA, HHV, PGT, DHC, NQT, HNA, HAF, PET, DIH, HGM: Thông tin giao dịch lượng lớn cổ phiếu
+__label__FIN#neutral Công ty Hạ tầng Miền Bắc đăng ký bán 50 triệu cổ phiếu HHV của Giao thông Đèo Cả
+__label__FIN#neutral Lịch chốt quyền nhận cổ tức bằng tiền của 12 doanh nghiệp
+__label__FIN#positive Phiên 2/7: Khối ngoại mua ròng hơn 1.900 tỷ đồng, tâm điểm giao dịch NVL
+__label__FIN#neutral Tại sao VinaCapital lại đổ tiền vào DXS?
+__label__FIN#positive CNG Việt Nam ước đạt gần 30 tỷ lợi nhuận trong quý 2/2021, gấp nhiều lần cùng kỳ năm trước
+__label__FIN#neutral Bất chấp VN-Index vượt đỉnh lịch sử, gần trăm mã cổ phiếu vẫn ngược dòng giảm trong nửa đầu năm 2021
+__label__FIN#neutral Ngày 5/7, HoSE sẽ chính thức vận hành hệ thống mới do FPT cung cấp
+__label__FIN#neutral Tiêu điểm xử phạt tuần qua: Rất nhiều cá nhân bị UBCKNN phạt
+__label__FIN#neutral Là hai đơn vị được hưởng mức thuế 0 USD/kg khi xuất sang Mỹ trong đợt POR16, Vĩnh Hoàn và Navico sẽ hưởng lợi như thế nào?
+__label__FIN#positive TNG ước lợi nhuận 80 tỷ đồng sau 6 tháng, tăng 25% so với cùng kỳ 2020
+__label__FIN#neutral Điểm danh những doanh nghiệp chốt quyền nhận cổ tức bằng tiền, bằng cổ phiếu và cổ phiếu thưởng tuần từ 5/7 - 9/7
+__label__FIN#positive "Lại hồi phục ""nhanh như một cơn gió"", thanh khoản quay lại ngưỡng tỷ đô, Vn30-Index tăng 9 điểm"
+__label__FIN#positive Đạt Phương (DPG) chốt quyền nhận cổ tức bằng tiền và phát hành cổ phiếu thưởng tổng tỷ lệ 50%
+__label__FIN#neutral Giám đốc đầu tư Dragon Capital: Kỳ vọng ra mắt các sản phẩm T+0, bán khống sau khi hệ thống giao dịch mới hoạt động
+__label__FIN#neutral HDG, GEX, CKG, TTZ, TCO, MCF, VNA, TMW: Thông tin giao dịch lượng lớn cổ phiếu
+__label__FIN#neutral Lịch sự kiện và tin vắn chứng khoán ngày 2/7
+__label__FIN#positive Gần 58 triệu cổ phiếu Vingroup vừa được Vinpearl chuyển nhượng cho hai ngân hàng ngoại
+__label__FIN#positive Dịch vụ Hoàng Huy (HHS) triển khai phương án phát hành 33 triệu cổ phiếu trả cổ tức
+__label__FIN#negative Dabaco (DBC): LNST quý 2 giảm mạnh chỉ còn phân nửa cùng kỳ, luỹ kế 6 tháng đạt 579 tỷ đồng
+__label__FIN#positive Chứng khoán Phú Hưng (PHS): Phát hành 50 triệu cổ phiếu, tăng vốn lên 1.400 tỷ đồng
+__label__FIN#neutral Giá phân bón tăng nóng và câu chuyện cân bằng lợi ích: Góc nhìn từ người trong cuộc
+__label__FIN#negative "KBSV: ""Khả năng cao xuất hiện nhịp điều chỉnh trong nửa sau quý 3, VN-Index kết thúc năm 2021 ở vùng 1.480 điểm"""
+__label__FIN#neutral Nhiều quỹ thắng lớn trên TTCK Việt Nam nửa đầu năm 2021 nhờ cổ phiếu ngân hàng, Diamond ETF và VNFinLead ETF bỏ xa phần còn lại
+__label__FIN#positive Tư vấn Xây dựng Điện 2 (TV2) chốt quyền nhận cổ tức bằng tiền và cổ phiếu tổng tỷ lệ 35%
+__label__FIN#positive Chứng khoán Agribank (AGR) ước lãi 6 tháng đầu năm 160 tỷ đồng, quyết tâm xóa lỗ lũy kế trong năm 2021
+__label__FIN#negative Phiên 1/7: Khối ngoại quay đầu bán ròng 250 tỷ đồng, tập trung bán VPB và CTG
+__label__FIN#negative Vinaruco (VRG) trình cổ đông kế hoạch lợi nhuận giảm gần 20% so với dự kiến ban đầu
+__label__FIN#neutral Lịch chốt quyền nhận cổ tức bằng tiền của 9 doanh nghiệp
+__label__FIN#neutral “Đua lệnh” ngày không hưởng quyền, cổ phiếu có thật sự “rẻ”?
+__label__FIN#neutral Giải đấu “Huyền thoại Phái sinh” chính thức khai chiến vào ngày 01/07/2021
+__label__FIN#negative PE đã trên 19 lần, nhiều cổ phiếu tăng “nóng”, thị trường chứng khoán trước nguy cơ phải điều chỉnh?
+__label__FIN#positive Khối ngoại mua ròng hơn 1.750 tỷ đồng trong phiên giao dịch cuối quý 2
+__label__FIN#positive Traphaco ước lãi 6 tháng đạt 124 tỷ đồng, tăng trưởng gần 38% so với cùng kỳ 2020
+__label__FIN#neutral "3 năm ""nghiện"" chơi chứng khoán, ngày lãi 800 triệu, ngày bay 1 tỷ đồng, CEO Unique OOH nghiệm ra bài học đau đớn: Hãy đầu tư bài bản, hoặc bỏ đi mà vui vẻ sống!"
+__label__FIN#positive ĐHCĐ Fecon: Tự tin với kế hoạch lãi 175 tỷ đồng, đẩy mạnh phát triển dự án năng lượng tái tạo trong năm 2021
+__label__FIN#positive VEAM sẽ dành hơn 6.600 tỷ đồng chia cổ tức năm 2020, tỷ lệ 49,9%
+__label__FIN#positive "Cổ phiếu ngành hàng không sẽ ""trỗi dậy"" vào năm 2023, nửa cuối năm nay phù hợp để tích lũy"
+__label__FIN#positive Gemadept (GMD): Lợi nhuận 6 tháng ước tăng 38% lên 388 tỷ đồng, cảng nước sâu Gemalink dự hoạt động hết công suất ngay trong quý 3/2021
+__label__FIN#positive Tập đoàn Bảo Việt trả cổ tức năm 2020 bằng tiền tỷ lệ gần 9%, kế hoạch chi 3.800 tỷ đồng tăng vốn cho công ty thành viên
+__label__FIN#negative "VnIndex giảm nhẹ cuối phiên, VCB, MSN, VIC tăng mạnh ""cân"" CTG, TCB"
+__label__FIN#negative Cảnh báo những rủi ro rình rập, chứng khoán có thể điều chỉnh 7-10%?
+__label__FIN#positive Lọc Hoá dầu Bình Sơn (BSR): Doanh thu 6 tháng ước tăng 56% lên 49.483 tỷ đồng, lợi nhuận thu về hơn 3.000 tỷ đồng
+__label__FIN#neutral TCB, VIB, HCM, IDV, NHA, VTS, CSI, DID, MVC, BCP, DXL, S74, S96: Thông tin giao dịch lượng lớn cổ phiếu
+__label__FIN#negative PV OIL: Hoàn tất thoái hết vốn gắn với thu hồi công nợ tại Dầu khí Dương Đông Kiên Giang
+__label__FIN#neutral Lịch sự kiện và tin vắn chứng khoán ngày 30/6
+__label__FIN#negative OGC Group bị Cục thi hành án dân sự quận Ba Đình kê biên gần 4 triệu cổ phiếu OCH để chờ xử lý
+__label__FIN#positive Sợi Thế Kỷ chốt quyền nhận cổ tức bằng tiền tỷ lệ 15%, cổ phiếu STK đã tăng gần gấp đôi từ đầu năm
+__label__FIN#positive Thuỷ sản Vĩnh Hoàn (VHC): Được áp mức thuế 0 USD/kg khi xuất sang Mỹ trong đợt rà soát POR16
+__label__FIN#negative Lo ngại thiếu hụt lao động, May Nhà Bè (MNB) đăt kế hoạch lợi nhuận năm 2021 giảm 27%
+__label__FIN#positive Quốc tế Sơn Hà (SHI) chốt danh sách cổ đông phát hành hơn 9 triệu cổ phiếu trả cổ tức
+__label__FIN#positive Xuất nhập khẩu Bình Thạnh (GIL) triển khai phương án phát hành 7,2 triệu cổ phiếu trả cổ tức
+__label__FIN#positive Phiên 29/5: Khối ngoại mua ròng hơn 40 tỷ đồng trên HoSE, tập trung mua VHM
+__label__FIN#positive Xếp dỡ Tân Cảng (TCL) chốt quyền trả cổ tức bằng tiền tỷ lệ 50%
+__label__FIN#positive Phục vụ mặt đất Sài Gòn (SGN) chuẩn bị trả cổ tức đợt 1/2020 bằng tiền tỷ lệ 15%
+__label__FIN#neutral Ủy viên HĐQT VLXD Bình Dương muốn chi hơn 100 tỷ mua cổ phiếu MVC
+__label__FIN#positive VCBS: “Nếu hệ thống giao dịch mới của HOSE vận hành ổn định, Việt Nam có thể lọt vào danh sách theo dõi nâng hạng thị trường trong năm 2022”
+__label__FIN#positive "Giá phân bón nhảy vọt trước tình trạng khan hiếm gia tăng, cổ phiếu ngành DCM, DPM, LAS tăng ""phi mã"""
+__label__FIN#positive Thủy điện sông Ba Hạ (SBH): Chia cổ tức bằng tiền năm 2020 tổng tỷ lệ gần 65%
+__label__FIN#positive Haxaco (HAX) thông qua kế hoạch thưởng cổ phiếu cho ban lãnh đạo, phát hành ESOP giá 10.000 đồng
+__label__FIN#positive Chủ tịch VSD: Chưa lo bong bóng chứng khoán, dự kiến thêm 300 ngàn tài khoản mở mới
+__label__FIN#positive Quỹ ETF VN30 do Dragon Capital quản lý lần đầu có quy mô vượt mốc 10.000 tỷ đồng
+__label__FIN#positive "Quỹ ETF đến từ Mỹ bắt đầu rót tiền vào thị trường Việt Nam, tập trung ""gom"" chứng chỉ Diamond ETF"
+__label__FIN#positive Tăng trưởng kinh tế 6 tháng và ý nghĩa đối với thị trường chứng khoán
+__label__FIN#neutral "Trò chuyện với Trưởng phòng Tư vấn đầu tư Chứng khoán ở tuổi 23: ""Chơi chứng khoán có như trò cờ bạc hay không, tùy vào cách nghĩ của bạn""!"
+__label__FIN#positive Rung lắc mạnh trong phiên chiều, VN-Index vẫn vượt mốc 1.410 điểm với lực kéo từ VHM
+__label__FIN#positive CEO Bitexco xin rút khỏi HĐQT IDICO sau thương vụ thoái vốn
+__label__FIN#positive ĐHĐCĐ Thép Pomina (POM): Đặt kế hoạch lãi cao gấp 38 lần lên 600 tỷ đồng, thay Chủ tịch và sắp phát hành tối đa 70 triệu cổ phần
+__label__FIN#neutral Lịch chốt quyền nhận cổ tức bằng tiền của 6 doanh nghiệp
+__label__FIN#positive Chứng khoán Rồng Việt (VDS) chốt danh sách cổ đông phát hành 5 triệu cổ phiếu trả cổ tức
+__label__FIN#neutral Lịch sự kiện và tin vắn chứng khoán ngày 29/6
+__label__FIN#positive Chủ tịch SCG muốn mua thêm 1 triệu cổ phiếu
+__label__FIN#positive Cổ phiếu Novaland (NVL) vượt 120.000 đồng, chủ tịch Bùi Thành Nhơn tiếp tục đứng ra đảm bảo cho kế hoạch phát hành mới 300 tỷ trái phiếu
+__label__FIN#negative Dự kiến lên sàn giá 4x, Đất Xanh Services (DXS) lại bất ngờ “hạ giá” xuống còn 32.000 đồng/cp
+__label__FIN#positive Chứng khoán SHS chốt phương án phát hành chia thưởng và bán ưu đãi cho cổ đông hiện hữu, tăng vốn lên 3.250 tỷ đồng
+__label__FIN#positive Đất Xanh (DXG): Sắp vay trái phiếu quốc tế tối đa 300 triệu USD nhằm phát triển quỹ đất
+__label__FIN#positive "Thép Tiến Lên (TLH): Kinh doanh tháng 5 ""hạ nhiệt"", vẫn hoàn thành vượt kế hoạch năm sau 5 tháng"
+__label__FIN#neutral HHS, NLG, NHH, TNG, HOT, TTZ, NTH: Thông tin giao dịch lượng lớn cổ phiếu
+__label__FIN#positive "Long Hậu (LHG) đặt kế hoạch LNST năm 2021 ""đi lùi"", dự kiến chi hơn 1.000 tỷ đồng cho đầu tư"
+__label__FIN#positive Vietjet chào bán riêng lẻ tăng 15% vốn và phát hành 300 triệu trái phiếu chuyển đổi
+__label__FIN#positive Chứng khoán SSI – 10 năm Finance Asia vinh danh “Nhà môi giới tốt nhất Việt Nam”
+__label__FIN#positive Becamex IDC (BCM) dự chi 414 tỷ đồng trả cổ tức năm 2020
+__label__FIN#negative Rủi ro lạm phát toàn cầu và tác động tới chứng khoán Việt Nam
+__label__FIN#positive Tập đoàn ASG phát hành gần 13 triệu cổ phiếu trả cổ tức
+__label__FIN#negative Mặc cho VN-Index lập đỉnh mới, khối ngoại quay đầu bán ròng hơn 200 tỷ đồng trong phiên 28/6
+__label__FIN#neutral "HDI Global SE đã ""sang tay"" gần 14 triệu cổ phiếu PVI cho Chứng khoán HSC?"
+__label__FIN#neutral Điều gì khiến thanh khoản thị trường chứng khoán “tụt áp” nửa cuối tháng 6?
+__label__FIN#neutral Tặng 10 triệu phí khi mở tài khoản chứng khoán tại YSVN
+__label__FIN#positive Sau HVS, Hyundai Thành Công thâu tóm thêm Chứng khoán Đà Nẵng, sắp tăng vốn nghìn tỷ?
+__label__FIN#negative Thép Đà Nẵng (DNS) rời sàn theo biểu quyết của cổ đông lớn nhất, VnSteel phản đối bất thành trong bối cảnh ngành thép khởi sắc
+__label__FIN#positive CEO Tập đoàn HIPT (HIG) muốn mua thỏa thuận thêm 3 triệu cổ phiếu
+__label__FIN#neutral Ông Lê Hải Trà nhận tổng lương, thưởng gần 840 triệu đồng trong năm 2020
+__label__FIN#neutral "Một nhà đầu tư bị phạt gần 100 triệu đồng sau khi ""ngồi ghế"" cổ đông lớn Khoáng sản luyện kim màu (KSK)"
+__label__FIN#positive VnIndex tăng mạnh mẽ 16 điểm, nhiều nhà đầu tư ngỡ ngàng nhìn thị trường chứng khoán vượt đỉnh
+__label__FIN#neutral "Dòng tiền ""tỷ đô"" mất hút ở đỉnh: Những kịch bản nào có thể sẽ xảy ra?"
+__label__FIN#neutral [Live ĐHĐCĐ AAA] Kế hoạch niêm yết cổ phiếu tại thị trường chứng khoán Mỹ
+__label__FIN#negative ĐHĐCĐ Ricons: Cựu CEO Coteccons – Nguyễn Sỹ Công – làm Chủ tịch HĐQT nhiệm kỳ 2021-2026, kế hoạch lãi ròng giảm gần nửa xuống còn 150 tỷ đồng
+__label__FIN#positive MBS: “Thanh khoản sụt giảm cuối tháng 6 là yếu tố kỹ thuật, VN-Index có thể cán mốc 1.475 điểm trong thời gian tới”
+__label__FIN#positive Lịch sự kiện và tin vắn chứng khoán ngày 28/6
+__label__FIN#neutral Bạn là nhà đầu tư hay người đầu cơ?
+__label__FIN#neutral Lịch chốt quyền nhận cổ tức bằng tiền của 11 doanh nghiệp
+__label__FIN#neutral Xu thế dòng tiền: Thanh khoản giảm mạnh là tốt hay xấu?
+__label__FIN#neutral Tiền vào chứng khoán bất ngờ giảm mạnh, vì sao?
+__label__FIN#positive Đất Xanh (DXG): Sẽ niêm yết DXS trong tháng 7, năm 2021 sẽ có thêm dòng tiền huy động khoảng 16.000 tỷ đồng
+__label__FIN#positive ĐHCĐ Rạng Đông (RAL): Thay đổi giá phát hành xuống còn 93.000 đồng/cp, ước doanh thu 5 tháng đầu năm tăng trưởng 50%
+__label__FIN#neutral "Ông Đỗ Ngọc Quỳnh: ""Chủ tịch UBCK nói với tôi, nguyên tắc là khi tải hệ thống đạt 30% công suất thiết kế thì phải nâng cấp ngay"""
+__label__FIN#positive Dragon Capital quay trở lại mua thêm 2,7 triệu cổ phiếu DXG
+__label__FIN#positive CEO của Vneco đăng ký mua 4 triệu cổ phiếu VNE
+__label__FIN#negative Một lãnh đạo của VLXD Bình Dương muốn bán toàn bộ gần 24 triệu cổ phiếu MVC
+__label__FIN#neutral MWG, DXG, VPB, VCP, VRC, BWE, ND2, VNE, HDC, ADS, HIG, MVC, VNA: Thông tin giao dịch lượng lớn cổ phiếu
+__label__FIN#neutral Hàng loạt cổ phiếu rời sàn chứng khoán trong tháng 7
+__label__FIN#neutral Kinh Bắc (KBC): Có 8 nhà đầu tư cá nhân và 16 tổ chức tham gia mua lượng lớn đợt chào bán 1.500 tỷ trái phiếu lãi suất 10,8%/năm
+__label__FIN#positive Chứng khoán Bản Việt (VCI) mua lại trước hạn 500 tỷ trái phiếu
+__label__FIN#neutral Tập đoàn Anova thống nhất đổi tên
+__label__FIN#neutral Chứng khoán Đà Nẵng (DSC) thông qua phương án chào bán riêng lẻ 94 triệu cổ phiếu tăng vốn điều lệ, nhà đầu tư chiến lược liên quan tới Tập đoàn Thành Công
+__label__FIN#positive Viettel Global đặt kế hoạch có thể đạt 1.200 tỷ đồng lợi nhuận trước thuế, tương đương năm 2020
+__label__FIN#positive Sóng lớn ở cổ phiếu chứng khoán
+__label__FIN#positive Phiên 25/6: Khối ngoại tiếp tục mua ròng gần 90 tỷ đồng, tập trung “gom” VHM
+__label__FIN#positive "Chuyên gia VinaCapital: Đầu tư cổ phiếu, trái phiếu, cổ phần tư nhân... là cách tuyệt vời để ""rót tiền"" vào Việt Nam ở thời điểm này"
+__label__FIN#positive Vingroup tiếp tục thoái gần 13 triệu cổ phần tại Vinatex (VGT), giảm tỷ lệ sở hữu xuống còn 5%
+__label__FIN#negative Tăng không ngừng từ đầu năm, chứng khoán Việt Nam đang đối mặt với nhiều rủi ro ngắn hạn
+__label__FIN#neutral VIX - ĐHCĐ thông qua phát hành quyền mua 1:1 giá 10.000đ/CP
+__label__FIN#neutral Ông chủ dự án 5 sao Six Senses Ninh Vân Bay tham vọng tăng 113% lợi nhuận bất chấp Covid-19, chào bán cổ phiếu giá 20.000 đồng/cp để huy động nguồn lực
+__label__FIN#positive ĐHCĐ Taseco Airs: Kỳ vọng hàng không bùng nổ sau thời gian bị “nén”
+__label__FIN#positive "MWG: Doanh thu tháng 5 lần đầu ""ăn đứt"" mùa cao điểm Tết, trung bình thu về hơn 379 tỷ đồng mỗi ngày"
+__label__FIN#positive "Xuất nhập khẩu Bình Thạnh (GIL) ""ngồi ghế"" cổ đông lớn tại GMC"
+__label__FIN#positive Cổ phiếu bật tăng gấp 3 lần kể từ đáy Covid-19, kỳ vọng gì cho Elcom (ELC)?
+__label__FIN#positive Đạm Phú Mỹ (DPM) chốt danh sách cổ đông chi khoảng 270 tỷ đồng trả cổ tức
+__label__FIN#positive Vn30-Index cán ngưỡng 1.500 điểm, dòng tiền đuối sức trong cuộc đua vượt đỉnh
+__label__FIN#positive Vinaconex (VCG) chốt danh sách cổ đông để chia thưởng 36 triệu cổ phiếu quỹ
+__label__FIN#positive Malblue – công ty liên quan với Chủ tịch HĐQT Vneco - đăng ký mua 10 triệu cổ phiếu VNE
+__label__FIN#neutral HPG, VIB, OPC, SZB, TID, VCP, PHC, VNE, GMC, VNA, MEC: Thông tin giao dịch lượng lớn cổ phiếu
+__label__FIN#negative Việt Nam tiếp tục “lỡ hẹn” cơ hội nâng hạng, MSCI đề xuất đưa Pakistan trở lại thị trường cận biên sau 1 năm ở nhóm mới nổi
+__label__FIN#neutral "Chủ tịch UBCK: ""Chúng tôi không chỉ nợ một lời xin lỗi mà nhiều lời xin lỗi"""
+__label__FIN#positive PVI: Cổ đông ngoại HDI Global SE đã bán ra 14 triệu cổ phần sau khi bị UBCKNN xử phạt vì che đậy tỷ lệ sở hữu thực
+__label__FIN#positive Thuỷ sản Cà Mau (CMX) đặt kế hoạch lãi 73 tỷ đồng trong năm 2021, kim ngạch xuất 70 triệu USD
+__label__FIN#neutral Lịch sự kiện và tin vắn chứng khoán ngày 25/6
+__label__FIN#negative Yeah1 (YEG): Tiếp tục bán vốn tại Yeah1 Network, cổ phiếu vẫn dò đáy
+__label__FIN#positive "Một doanh nghiệp bia có EPS hơn 21.000 đồng, thị giá thuộc hàng ""đắt đỏ"" nhất thị trường"
+__label__FIN#positive Gỗ Trường Thành (TTF): Thị giá 7.220 đồng/cp nhưng phát hành với giá 10.000 đồng/cp, đã có 19 nhà đầu tư tham gia đợt chào bán 595 tỷ đồng
+__label__FIN#positive Việt Tiên Sơn địa ốc (AAV) chốt danh sách cổ đông phát hành gần 4,8 triệu cổ phiếu trả cổ tức
+__label__FIN#negative Ông Petri Deryng: “Sẽ không thích hợp nếu nói định giá TTCK lúc này đang rẻ, lợi nhuận ngành ngân hàng từ sau năm 2021 có thể ở mức vừa phải hơn”
+__label__FIN#positive Thanglong Invest (TIG) chốt danh sách cổ đông phát hành hơn 9 triệu cổ phiếu trả cổ tức
+__label__FIN#neutral "Ông Nguyễn Duy Hưng: ""Tôi đã thua độ anh Bình FPT"", nhắn nhủ: ""Chúng ta nợ NĐT một lời xin lỗi chính thống"""
+__label__FIN#positive "Nhóm quỹ Dragon Capital vừa ""gom"" thêm 1 triệu cổ phiếu HPG"
+__label__FIN#positive VCSC: “Dự thảo nghị định quản lý Khu công nghiệp là động lực thúc đẩy thu hút FDI”
+__label__FIN#positive Vietnam Airlines dự kiến tổ chức ĐHCĐ giữa tháng 7: Sẽ thông qua mức giá bán cổ phần tăng vốn thêm 8.000 tỷ
+__label__FIN#negative Nghịch lý: giá dầu cao nhất 2 năm, cổ phiếu dầu khí lại bất ngờ đỏ sàn
+__label__FIN#positive Phiên 24/6: Khối ngoại tiếp tục mua ròng 175 tỷ đồng, tập trung “gom” SSI và VHM
+__label__FIN#neutral """Kế hoạch giải cứu nghẽn lệnh 100 ngày"" của FPT: Xử lý 3-5 triệu lệnh/ngày, bỏ cơ chế phân bổ lệnh, cán bộ làm việc 36-48 tiếng không về nhà"
+__label__FIN#negative Louis Holdings (BII) đổi chủ, cựu Chủ tịch bán ra gần 4 triệu cổ phiếu
+__label__FIN#neutral Chuyện chưa kể về nghẽn lệnh Hose: Coi nghẽn lệnh là trường hợp khẩn cấp quốc gia
+__label__FIN#positive VnIndex tăng mạnh, thị trường chứng khoán tháng 6 có “gọi tên” những cổ phiếu chưa tăng?
+__label__FIN#positive Cơ hội từ chứng chỉ quỹ đầu tư trái phiếu an toàn Amber
+__label__FIN#positive Chứng khoán Rồng Việt (VDS) sắp phát hành 5 triệu cổ phiếu trả cổ tức
+__label__FIN#negative Một doanh nghiệp dệt may đặt kế hoạch lãi 2021 bằng 0
+__label__FIN#neutral Điểm danh những doanh nghiệp chốt quyền nhận cổ tức bằng tiền, bằng cổ phiếu và cổ phiếu thưởng tuần từ 28/6-2/7
+__label__FIN#positive Bamboo Capital (BCG): Mirae Asset Daewoo bán ra 5,4 triệu cổ phiếu và không còn là cổ đông lớn, hợp tác chiến lược với Lotte Land
+__label__FIN#positive Gelex (GEX): Nhóm liên quan CEO Nguyễn Văn Tuấn muốn mua thêm 100 triệu cổ phiếu trong đợt phát hành giá ưu đãi 12.000 đồng/cp
+__label__FIN#neutral Lịch chốt quyền nhận cổ tức bằng tiền của 8 doanh nghiệp
+__label__FIN#neutral Tiêu điểm xử phạt tuần qua: Rất nhiều doanh nghiệp và cá nhân bị UBCKNN phạt
+__label__FIN#positive Thị trường “xanh vỏ đỏ lòng”, VN-Index tăng gần 3 điểm với thanh khoản tụt áp
+__label__FIN#neutral Phe short phái sinh được một phen nháo nhào, VN30-Index đang nỗ lực lấy lại đỉnh cao cũ
+__label__FIN#negative Chứng khoán SSI cùng nhiều lãnh đạo thoái vốn khỏi dược phẩm OPC
+__label__FIN#positive [ĐHĐCĐ Vingroup] Tỷ phú Vượng muốn bán hàng trăm nghìn xe VinFast tại Mỹ vào năm 2026
+__label__FIN#positive Đầu tư và Phát triển điện Tây Bắc (NED) đẩy mạnh phát triển dự án BĐS khu công nghiệp, ước lãi gần 45 tỷ đồng trong 6 tháng đầu năm 2021
+__label__FIN#neutral CTR, VCI, SGB, VRG, OPC, CSI, TNT, DXL, BVG, VTO: Thông tin giao dịch lượng lớn cổ phiếu
+__label__FIN#positive HAGL Agrico (HNG) thông qua các điều kiện, chuẩn bị phát hành hơn 741 triệu cổ phiếu cho Thagrico
+__label__FIN#positive HAGL (HAG): Cổ phiếu trong xu hướng tăng, Thành viên HĐQT đăng ký bán khớp lệnh 500.000 cổ phần
+__label__FIN#neutral Lịch sự kiện và tin vắn chứng khoán ngày 24/6
+__label__FIN#positive Nhiệt điện Phả Lại (PPC) dự chi hơn 400 tỷ đồng trả tiếp cổ tức đợt 4/2020
+__label__FIN#positive Vinaconex vừa huy động 2.200 tỷ trái phiếu để rót vào dự án Cát Bà Amatina
+__label__FIN#positive Lãnh đạo Chứng khoán Kiến thiết (CSI) liên tục mua bán cổ phiếu
+__label__FIN#positive Tập đoàn BGI (VC7) dự kiến phát hành cổ phiếu tăng vốn điều lệ lên gấp đôi
+__label__FIN#positive Xuất khẩu lốp tăng trưởng mạnh, cổ phiếu Cao su Đà Nẵng (DRC) trở lại vùng đỉnh sau 5 năm
+__label__FIN#positive Đông Hải Bến Tre (DHC): Vay ngân hàng thêm 1.100 tỷ đồng để bổ sung vốn lưu động, chủ trương mở rộng nhà máy
+__label__FIN#positive Thị trường điều chỉnh, khối ngoại trở lại mua ròng gần 150 tỷ đồng trong phiên 23/6
+__label__FIN#positive Chứng khoán Bản Việt (VCI): Hoàn tất tăng vốn lên 3.330 tỷ đồng, 166,5 triệu cổ phiếu chia thưởng sẽ được niêm yết trong tháng 7/2021
+__label__FIN#neutral TIG: Có 5 cá nhân tham gia đợt phát hành 30 triệu cổ phiếu giá 10.500 đồng/cp, Chủ tịch Nguyễn Phúc Long sẽ mua hơn 7,2 triệu đơn vị
+__label__FIN#neutral Bí kíp nhà vô địch MAScham – 2 tháng tranh tài, X2 tài khoản
+__label__FIN#neutral Hệ thống giao dịch mới của HoSE dự kiến Go-live từ tháng 7, tình trạng nghẽn lệnh sắp chấm dứt
+__label__FIN#positive Becamex IJC (IJC) chi gần 330 tỷ đồng trả cổ tức bằng tiền tỷ lệ 15%
+__label__FIN#neutral "Ông Đỗ Hữu Hạ ""sang tay"" gần 15 triệu cổ phiếu HHS cho Tài chính Hoàng Huy (TCH)?"
+__label__FIN#positive Novaland phát hành gần 6 triệu cổ phiếu cho HSBC để chuyển đổi trái phiếu với giá chuyển đổi 44.000 đồng/cp
+__label__FIN#negative VCB, VPB, CTG nỗ lực chống đỡ thị trường, VnIndex chỉ giảm nhẹ trong khi số mã giảm gấp 3 số mã tăng
+__label__FIN#positive Xây dựng Tiền Giang (THG) chốt quyền nhận cổ tức tổng tỷ lệ 20%, cổ phiếu THG đã tăng gấp rưỡi từ đầu năm
+__label__FIN#positive NLG duy trì giao dịch vùng đỉnh, người nhà lãnh đạo Nam Long vẫn tiếp tục chốt lãi
+__label__FIN#neutral IDC, CC1, NLG, VNG, TGG, OPC, HVH, DLG, LPB, KDC, IMP, HHV, CIA, VRG, PHS, HGM, BNA, CQN, NDP, DRI: Thông tin giao dịch lượng lớn cổ phiếu
+__label__FIN#neutral Lịch sự kiện và tin vắn chứng khoán ngày 23/6
+__label__FIN#positive Vừa lên sàn chứng khoán hơn 2 tháng, Xây dựng SCG chốt quyền chào bán 35 triệu cổ phiếu với giá bằng mệnh giá
+__label__FIN#positive "Sữa Quốc tế (IDP): Hậu thâu tóm bởi Blue Point, đề xuất mức cổ tức ""khủng"" lên đến 80% tiền mặt"
+__label__FIN#positive KIDO (KDC): Nhóm quỹ VinaCapital bán hơn 10,5 triệu cổ phiếu, thu về 600 tỷ đồng trong 3 ngày
+__label__FIN#positive Hoà Phát: Hơn 1 tỷ cổ phiếu HPG đợt chia cổ tức sẽ bắt đầu giao dịch từ ngày 28/6/2021
+__label__FIN#neutral ĐHĐCĐ BII: Ông Đỗ Thành Nhân không còn là cổ đông lớn nhưng vẫn điều hành, chuyển trọng tâm 2021 sang mảng bất động sản khu công nghiệp
+__label__FIN#positive BOT Hưng Phát bán hết 16,4 triệu cổ phiếu HHV sau thông tin Giao Thông Đèo Cả nộp hồ sơ đăng ký niêm yết trên HoSE
+__label__FIN#positive Sacombank sẽ bán 81,5 triệu cổ phiếu quỹ từ 1/7, chủ yếu giao dịch khớp lệnh
+__label__FIN#neutral "Hai công ty muốn ""trao tay"" hơn 52% vốn tại Dịch vụ Sân bay Quốc tế Cam Ranh (CIA)"
+__label__FIN#positive Sau nhiều nỗ lực, Cơ điện lạnh Nam Thịnh đã bán hết 16,3 triệu cổ phần tại Tổng công ty xây dựng số 1
+__label__FIN#positive VPBank bất ngờ lấy ý kiến cổ đông về việc chia cổ tức
+__label__FIN#positive Hodeco (HDC) sắp phát hành hơn 3,3 triệu cổ phiếu ESOP với giá chỉ bằng 1/6 thị giá hiện tại
+__label__FIN#neutral Ý tưởng đầu tư mới cho 6 tháng cuối năm 2021
+__label__FIN#positive Bảo hiểm MIC củng cố sức mạnh giúp cổ phiếu MIG thăng hoa
+__label__FIN#positive Cổ phiếu BSR - sức hút từ minh bạch và hiệu quả
+__label__FIN#positive VCSC: VN-Index phát tín hiệu quay trở lại xu hướng tăng giá
+__label__FIN#positive Một cổ phiếu bất động sản tăng gấp 3,6 lần sau 8 phiên lên sàn
+__label__FIN#positive Quỹ đầu tư cơ hội PVI vừa mua 6,6 triệu cổ phiếu, trở thành cổ đông lớn của Dược phẩm OPC
+__label__FIN#negative Phiên 22/6: Khối ngoại bán ròng hơn 500 tỷ đồng, tập trung giao dịch thỏa thuận PVI
+__label__FIN#positive Cổ đông lớn tiếp tục gom thêm 3,5 triệu cổ phiếu Vinaconex Power (VCP)
+__label__FIN#positive Vosco: Quyết liệt tái cấu trúc để tận dụng sóng tăng trưởng cước tàu, cổ phiếu kịch trần 7 phiên không ngơi nghỉ
+__label__FIN#positive Công ty mới thành lập chưa đầy 1 tháng chi gần 400 tỷ trở thành cổ đông lớn tại Dược Imexpharm (IMP)
+__label__FIN#neutral "CEO SGI Capital chia sẻ bí kíp đầu tư chứng khoán thành công: ""Cần hạn chế trading, chỉ cần thực hiện một nửa những quyết định cảm thấy tự tin nhất"""
+__label__FIN#positive Tập đoàn Bitexco đã bán hết 67,5 triệu cổ phần tại Idico, thu về 2.200 tỷ đồng
+__label__FIN#positive Dat Xanh Services - Trả cổ tức tăng gấp đôi, mục tiêu lãi bứt phá gần 1.500 tỷ năm 2021
+__label__FIN#positive Cổ phiếu tăng gần 19% trong gần 1 tuần, Lãnh đạo Đầu tư Phát triển Gas Đô thị đăng ký mua 4,7 triệu cổ phiếu PCG
+__label__FIN#neutral Đây là những chỉ số kinh tế vĩ mô mà nhà đầu tư cần đặc biệt quan tâm
+__label__FIN#neutral Mùa dịch Covid, kênh đầu tư nào an toàn hiệu quả hơn gửi tiết kiệm?
+__label__FIN#negative ĐHĐCĐ KIDO (KDC): Dịch Covid-19 làm trì hoãn nhiều kế hoạch, dự kiến tung loạt sản phẩm mới từ thương hiệu Vibev, bánh tươi đến chuỗi F&B Chuk Chuk ngay quý 3/2021
+__label__FIN#neutral Một môi giới chứng khoán phải chăm sóc 800 - 1.000 tài khoản nhà đầu tư
+__label__FIN#negative “Hạ nhiệt” về cuối phiên, VN-Index thất bại trước mốc 1.380 điểm
+__label__FIN#negative Đất Xanh Services (DXS): Sẽ tạm giao dịch trên HNX đến khi hệ thống HoSE ổn định
+__label__FIN#neutral Lịch chốt quyền nhận cổ tức bằng tiền của 8 doanh nghiệp
+__label__FIN#positive Hoà Bình (HBC): Thị trường tốt nhưng cổ phiếu HBC liên tục giảm, ban lãnh đạo nói gì trước nghi vấn bị thao túng giá?
+__label__FIN#negative "Công ty nuôi lợn đặt kế hoạch lãi ""đi lùi""đến hơn 60% trong năm 2021"
+__label__FIN#positive "Mirae Asset: Giá thép tăng ""nóng"" tốt trong ngắn hạn nhưng sẽ ảnh hưởng tiêu cực trong dài hạn"
+__label__FIN#positive Một quỹ ETF niêm yết tại Mỹ chuẩn bị đầu tư vào thị trường chứng khoán Việt Nam
+__label__FIN#neutral Lịch sự kiện và tin vắn chứng khoán ngày 22/6
+__label__FIN#positive ĐHĐCĐ Hoà Bình (HBC): Sẽ thu về 1.000 tỷ thoái vốn 4 dự án BĐS lớn, cổ đông đặt câu hỏi về đóng góp của CEO 9X Lê Viết Hiếu sau 1 năm chuyển giao thế hệ
+__label__FIN#positive Chủ tịch HBC Lê Viết Hải: FLC cam kết sẽ trả 285 tỷ đồng cho đến tháng 4/2022, sẽ tiếp tục hợp tác nếu có cơ hội trong thời gian tới
+__label__FIN#positive Doanh nghiệp ngành dệt may TDT thông qua phương án phát hành cổ phiếu tăng vốn điều lệ thêm 53%
+__label__FIN#negative Phiên 21/6: Khối ngoại đẩy mạnh bán ròng hơn 1.100 tỷ đồng, tập trung “xả” NVL, HPG
+__label__FIN#neutral Yếu tố nào làm nên thành công của VCSC, cổ phiếu chứng khoán thị giá cao nhất thị trường?
+__label__FIN#positive Dược phẩm Mediplantex (MED) lên kế hoạch tăng vốn gấp đôi, chào bán với mức giá 25.000 đồng/cp
+__label__FIN#neutral Những cổ phiếu nào sẽ lọt rổ VN30 trong kỳ review tháng 7?
+__label__FIN#positive IDICO sẽ thu về 520 tỷ với thương vụ thoái vốn Thủy điện Đak Mi
+__label__FIN#positive Vincom Retail (VRE) sáp nhập hai công ty con về bất động sản, tổng vốn hơn 6.100 tỷ đồng
+__label__FIN#negative VnIndex giảm 5 điểm cuối phiên, hàng loạt cổ phiếu chìm trong sắc đỏ
+__label__FIN#positive PNJ đạt 685 tỷ đồng lợi nhuận sau thuế sau 5 tháng, tăng 88,4% so với cùng kỳ 2020
+__label__FIN#negative Lãnh đạo Dược phẩm OPC đồng loạt đăng ký thoái toàn bộ cổ phần
+__label__FIN#neutral Lịch sự kiện và tin vắn chứng khoán ngày 21/6
+__label__FIN#neutral Kỳ vọng dòng tiền margin sắp được “cởi trói”, VN-Index hướng tới cột mốc 1.400 điểm?
+__label__FIN#neutral Xu thế dòng tiền: VN-Index vượt đỉnh, “con sóng thần” đang tới?
+__label__FIN#neutral Bóng đá mùa Euro và những quy tắc sống còn quý giá rút ra trong đầu tư chứng khoán?
+__label__FIN#neutral Thua lỗ triền miên, hơn 11 tỷ USD tháo chạy khỏi quỹ đầu tư định lượng lớn nhất thế giới trong 7 tháng
+__label__FIN#positive ENEOS Corporation chi khoảng 1.400 tỷ đồng mua xong 25 triệu cổ phiếu PLX của Petrolimex
+__label__FIN#neutral VIB, ABB, DQC, FTS, FIR, PLX, FDC, HAX, C47, ELC, HCI, TCO, TTC: Thông tin giao dịch lượng lớn cổ phiếu
+__label__FIN#positive Tăng trần liên tiếp, Mía đường Lam Sơn (LSS) đăng ký bán 2,35 triệu cổ phiếu quỹ còn lại
+__label__FIN#negative "Ông Lê Chí Phúc: ""Thị trường có thể bước vào nhịp điều chỉnh trong nửa cuối năm 2021, nhà đầu tư nên thận trọng phòng thủ"""
+__label__FIN#negative FiinGroup: Lưu ý rủi ro pha loãng khi lượng phát hành tăng vốn đạt kỷ lục hơn 100 nghìn tỷ
+__label__FIN#negative Vocarimex (VOC): Không còn hợp nhất chỉ số từ các công ty con, kế hoạch lợi nhuận 2021 giảm đến 76% xuống 57 tỷ đồng
+__label__FIN#positive VOF VinaCapital: Tham gia thương vụ IPO Dat Xanh Services, thoái vốn khỏi Imexpharm
+__label__FIN#positive Ngày Vn-Index lập đỉnh lịch sử, vốn hoá Vietcombank lại vượt Vingroup đứng đầu TTCK Việt Nam
+__label__FIN#positive Thanh Lễ: Giá xăng tăng mạnh, đặt kế hoạch lợi nhuận tăng cao hơn 3 lần lên 104 tỷ đồng
+__label__FIN#positive Đầu tư và Phát triển điện Tây Bắc (NED) tạm ứng cổ tức bằng tiền năm 2021 với tỷ lệ 10%, mở rộng lĩnh vực BĐS và Khu công nghiệp
+__label__FIN#negative Dệt may Thành Công (TCM): Lợi nhuận tháng 5 sụt giảm, tăng tỷ trọng bán vải
+__label__FIN#positive Khoáng sản Bình Dương (KSB) chốt danh sách cổ đông phát hành gần 7 triệu cổ phiếu trả cổ tức
+__label__FIN#positive Khối ngoại mua ròng gần 600 tỷ đồng trong ngày ETFs cơ cấu danh mục, tập trung “gom” PDR, HSG, APH
+__label__FIN#positive FPT Telecom (FOX) gia nhập câu lạc bộ vốn hóa tỷ đô
+__label__FIN#neutral Giải pháp đầu tư hiệu quả cho các nhà đầu tư cá nhân
+__label__FIN#positive Masan chốt danh sách cổ đông chi hơn 1.100 tỷ đồng tạm ứng cổ tức đợt 1/2021
+__label__FIN#positive Đầu tư HVA muốn tăng vốn lên 2,4 lần hiện tại
+__label__FIN#positive Gelex (GEX) lãi gần 900 tỷ đồng sau 6 tháng, có khả năng tăng giá bán thành phẩm nửa cuối năm do nguyên vật liệu và logistics tăng cao
+__label__FIN#neutral Điểm danh những doanh nghiệp chốt quyền nhận cổ tức bằng tiền, bằng cổ phiếu và cổ phiếu thưởng tuần từ 21/6-25/6
+__label__FIN#positive "21,3% cổ phần Chứng khoán Asean vừa được ""sang tay"""
+__label__FIN#positive VnIndex tăng 18 điểm cuối phiên, bộ 3 BVH, GAS, VRE đi ngược thị trường
+__label__FIN#positive Vinare (VNR) chi 200 tỷ đồng trả cổ tức tỷ lệ 15%, cổ phiếu VNR tăng 45% từ đầu năm
+__label__FIN#positive KIDO (KDC): Nhóm quỹ VinaCapital vừa bán ra 2,6 triệu cổ phần, giảm sở hữu xuống 10,62% vốn
+__label__FIN#neutral KDC, PCG, QBS, ND2, IMP, TCO, SHG, TET, TFC, HSA, MAC, BMD, TMW, VPR, RAT: Thông tin giao dịch lượng lớn cổ phiếu
+__label__FIN#neutral Lịch chốt quyền nhận cổ tức bằng tiền của 8 doanh nghiệp
+__label__FIN#neutral Lịch sự kiện và tin vắn chứng khoán ngày 18/6
+__label__FIN#positive Novaland (NVL): Muốn vay vốn thêm 2.600 tỷ đồng, đảm bảo bằng cổ phần thuộc sở hữu Chủ tịch Bùi Thành Nhơn
+__label__FIN#negative SSI Research: Lợi nhuận PVD có thể giảm phân nửa vì đối tác nước ngoài phá sản
+__label__FIN#negative Thuduc House (TDH): Liên tục bán vốn để giải quyết lùm xùm phải nộp 400 tỷ đồng truy thu thuế, sắp chuyển nhượng thêm 43% vốn tại Fideco
+__label__FIN#positive Enn Energy Holdings muốn bán toàn bộ hơn 7 triệu cổ phần tại PVGas City
+__label__FIN#positive Một cá nhân vừa chi hơn 200 tỷ đồng mua 7 triệu cổ phần tại Vinaconex Power
+__label__FIN#positive Vinaconex đăng ký mua hơn 6 triệu cổ phiếu ND2, muốn nâng tỷ lệ sở hữu tại Nedi 2 lên trên 51%
+__label__FIN#negative Khối ngoại tiếp tục bán ròng, tập trung “xả” HPG, CTG trong phiên 17/6
+__label__FIN#positive Lãnh đạo Đức Long Gia Lai (DLG) đăng ký mua 10 triệu cổ phiếu
+__label__FIN#neutral Traphaco chung tay cộng đồng phòng chống dịch Covid-19
+__label__FIN#positive ĐHĐCĐ Tường An (TAC): Năm 2021 sẽ chỉ tập trung sản xuất và sáp nhập vào KIDO khi đủ điều kiện, 6 tháng tăng 22% LNTT lên 105 tỷ đồng
+__label__FIN#positive Viet Phat Group (VPG) chốt danh sách cổ đông phát hành gần 4 triệu cổ phiếu trả cổ tức
+__label__FIN#positive Tâm sự sinh viên đầu tư chứng khoán: Không dồn hết trứng vào một giỏ, bán cả máy ảnh để lấy vốn đầu tư
+__label__FIN#positive ĐHĐCĐ Thuỷ sản Minh Phú (MPC): Nửa đầu năm ước lãi 300 tỷ đồng, khó khăn lớn nhất là lo ngại thiếu hụt container rỗng
+__label__FIN#positive "Doanh nghiệp thưởng ""đậm"" bằng ESOP, cổ đông nhỏ lẻ ""nóng mặt"" tại mùa ĐHCĐ 2021"
+__label__FIN#negative PV Power (POW): Doanh thu 5 tháng đầu năm giảm nhẹ xuống còn 12.749 tỷ đồng
+__label__FIN#positive Bất động sản Phát Đạt (PDR): Rót 50 tỷ thành lập công ty con Phát Đạt Realtor, sở hữu 51% cổ phần
+__label__FIN#neutral Tiêu điểm xử phạt tuần qua: Rất nhiều doanh nghiệp và cá nhân bị UBCKNN phạt
+__label__FIN#positive Chính thức áp thuế chống bán phá giá và chống trợ cấp đường Thái Lan, nhóm LSS, SBT, QNS, KTS ngược dòng bứt phá, thậm chí kịch trần
+__label__FIN#positive Đạm Cà Mau (DCM) dự chi hơn 420 tỷ đồng trả cổ tức, giá cổ phiếu tăng 44% kể từ đầu năm
+__label__FIN#negative Cổ đông lớn tại Hải An (HAH) lần lượt bán ra giữa lúc cổ phiếu lên đỉnh
+__label__FIN#positive SSI Research: Nghị định mới hợp lý hoá quy trình xin cấp phép mới và mở rộng Khu công nghiệp, KBC, SZC, SIP… vẫn có thể duy trì tỷ suất lợi nhuận cho thuê đất ở mức cao
+__label__FIN#positive Năm Bảy Bảy (NBB) dùng 22 triệu cổ phiếu quỹ trị giá gần 500 tỷ đồng chia cho cổ đông
+__label__FIN#positive Idico (IDC) muốn chuyển toàn bộ cổ phần tại Thủy điện Đak Mi cho Bitexco
+__label__FIN#positive Năm Bảy Bảy chuẩn bị thưởng toàn bộ 22 triệu cổ phiếu quỹ cho cổ đông
+__label__FIN#positive “Lặng sóng” trong ngày đáo hạn phái sinh, VN-Index hồi phục lên sát 1.360 điểm sau phiên điều chỉnh sâu
+__label__FIN#positive Đất Xanh (DXG): Lên kế  hoạch huy động 300 triệu USD trái phiếu quốc tế
+__label__FIN#neutral Lịch sự kiện và tin vắn chứng khoán ngày 17/6
+__label__FIN#neutral Chứng khoán tăng trưởng cao gấp nhiều lần nền kinh tế thực có thực sự đáng ngại?
+__label__FIN#negative Nhiều Công ty chứng khoán thận trọng, khuyến nghị nhà đầu tư hạ tỷ trọng cổ phiếu
+__label__FIN#neutral Lịch chốt quyền nhận cổ tức bằng tiền của 8 doanh nghiệp
+__label__FIN#neutral VIB, LPB, DLG, DXG, TVB, BVH, OPC, BDT, BIO, HAP: Thông tin giao dịch lượng lớn cổ phiếu
+__label__FIN#positive Tăng “phi mã” từ đầu năm, Tổng Giám đốc MBS đăng ký bán toàn bộ 1 triệu cổ phiếu đang nắm giữ
+__label__FIN#positive Dragon Capital tiếp tục thoái hơn 10 triệu cổ phiếu Đất Xanh (DXG)
+__label__FIN#positive ĐHĐCĐ Chứng khoán SHS: Ước lãi 6 tháng đầu năm trên 600 tỷ đồng, hoàn thành 80% kế hoạch năm, dư nợ margin tăng 30% so với cuối quý 1
+__label__FIN#positive Một lãnh đạo của Đức Long Gia Lai đăng ký mua 10 triệu cổ phiếu DLG
+__label__FIN#positive Đại lý Hàng hải Việt Nam (VSA) chốt quyền trả cổ tức bằng tiền tỷ lệ 30%
+__label__FIN#positive Chứng khoán KIS tăng vốn, tiếp tục tăng tốc cuộc đua tới top đầu thị trường vốn
+__label__FIN#positive Cước vận tải biển tăng phi mã, doanh nghiệp logistics và cảng biển hưởng lợi
+__label__FIN#negative Khối ngoại trở lại bán ròng hơn 100 tỷ đồng, 3 sàn “đỏ lửa” trong phiên 16/6
+__label__FIN#negative "Bất ngờ với cú sập giữa ""thời hoàng kim"" của cổ phiếu chứng khoán"
+__label__FIN#negative ĐHĐCĐ Cao su Phước Hòa (PHR): Ông Mai Hữu Tín ứng cử vị trí Thành viên HĐQT độc lập, dự thu 691 tỷ đồng bồi thường VSIP III trong năm 2021
+__label__FIN#positive UBND tỉnh Đồng Tháp thoái vốn, Vinaconex và 1 cá nhân trở thành cổ đông lớn mới của Dongthap BMC (BDT)
+__label__FIN#positive Cổ phiếu cao su thiên nhiên ‘âm thầm’ tăng giá
+__label__FIN#positive Agriseco: “Lạm phát tăng chưa chắc khiến chứng khoán giảm, Việt Nam đang ở trong giai đoạn tối ưu”
+__label__FIN#positive PVGas (GAS) chốt danh sách cổ đông chi hơn 5.700 tỷ đồng trả cổ tức năm 2020 tỷ lệ 30%
+__label__FIN#positive Nhóm VN30 giảm sâu ngay trước kỳ đáo hạn phái sinh, VnIndex mất 10 điểm cuối phiên
+__label__FIN#positive ICD Tân Cảng - Long Bình (ILB) sắp chi 37 tỷ đồng trả cổ tức tỷ lệ 15%
+__label__FIN#negative "Cổ đông Điện lực Khánh Hòa (KHP) ""mừng hụt"": Sắp đến ngày nhận cổ tức bỗng nhận tin bị hủy"
+__label__FIN#positive Gilimex (GIL): Xác định chuỗi khu công nghiệp là chiến lược từ năm 2021, tiếp tục rót 180 tỷ đồng cho dự án tại Vĩnh Long
+__label__FIN#neutral Lịch sự kiện và tin vắn chứng khoán ngày 16/6
+__label__FIN#positive Saigon Cargo Service (SCS) chốt danh sách cổ đông trả cổ tức còn lại năm 2020 bằng tiền tỷ lệ 50%
+__label__FIN#neutral DXG, VDS, TCO, TVB, IMP, VE1, SSG, TMS, HAH, ELC, MAC, FGL, LMC: Thông tin giao dịch lượng lớn cổ phiếu
+__label__FIN#positive Đất Xanh (DXG): Dragon Capital đã bán ra hơn 5 triệu cổ phần, giảm sở hữu xuống còn 14,8% vốn
+__label__FIN#neutral Lịch chốt quyền nhận cổ tức bằng tiền của 10 doanh nghiệp
+__label__FIN#positive Vinaconex góp thêm 1.200 tỷ tại hai công ty con, đồng thời thoái vốn hoàn toàn tại Vina-Sanwa
+__label__FIN#positive Ngành dược hấp dẫn nhà đầu tư ngoại, sôi động hoạt động M&A
+__label__FIN#positive Một cá nhân vừa chi khoảng 350 tỷ đồng mua vào 17 triệu cổ phần tại Chứng khoán Rồng Việt
+__label__FIN#positive Năm Bảy Bảy (NBB) dự chi hơn 125 tỷ đồng trả cổ tức đợt 1 năm 2020
+__label__FIN#positive Công ty nuôi heo trả cổ tức bằng tiền mặt xấp xỉ 123%
+__label__FIN#negative """Bão giá"" vật liệu xây dựng, Giấy Hoàng Hà Hải Phòng (HHP) lên kế hoạch chuyển dự án nghìn tỷ sang năm 2022"
+__label__FIN#positive Phiên 15/6: Khối ngoại mua ròng hơn 100 tỷ đồng, tập trung “gom” nhóm VinGroup
+__label__FIN#positive FPT lãi trước thuế 5 tháng đạt 2.428 tỷ đồng, tăng trưởng 22% so với cùng kỳ 2020
+__label__FIN#positive ĐHĐCĐ PVTrans (PVT): Giá dầu tăng không tác động đáng kể đến chỉ số kinh doanh, 6 tháng ước đạt 420 tỷ LNTT
+__label__FIN#positive Doanh nghiệp sản xuất bao cao su duy nhất trên sàn sắp chia cổ tức, cổ phiếu thưởng tổng tỷ lệ 85%
+__label__FIN#neutral Chứng khoán SHS muốn chào báo gần 104 triệu cổ phiếu cho cổ đông với mức giá 13.500 đồng/cp
+__label__FIN#neutral VN30 sẽ thêm mới ACB, GVR, loại SBT và TCH trong kỳ review tháng 7?
+__label__FIN#negative "Kinh doanh giảm sút, ""mì tôm"" Miliket giảm cổ tức năm 2020 xuống còn 28%"
+__label__FIN#positive Chốt lời cổ phiếu ngân hàng, VN-Index vẫn tăng gần 6 điểm nhờ lực kéo từ nhóm VinGroup và Khu công nghiệp
+__label__FIN#neutral UBND tỉnh Đồng Tháp bán bớt 16 triệu cổ phần tại DongThap BMC (BDT), thu về gần 450 tỷ đồng
+__label__FIN#positive Dược phẩm Imexpharm (IMP): SK Investment đã mua 3,5 triệu cổ phần, nâng tổng sở hữu lên hơn 29% vốn
+__label__FIN#neutral HBC, SSI, SPI, POM, DLG, DBT, SRF, THS, HAH, IMP, DPC, KDM, TMS: Thông tin giao dịch lượng lớn cổ phiếu
+__label__FIN#neutral Chứng khoán APG đẩy nhanh quá trình tái cấu trúc
+__label__FIN#neutral Lịch sự kiện và tin vắn chứng khoán ngày 15/6
+__label__FIN#negative BVSC: “Việt Nam khó có thể được nâng hạng Emerging Markets trong tháng 6, còn nhiều vấn đề cần giải quyết”
+__label__FIN#positive Nam Tân Uyên (NTC) đặt kế hoạch cho thuê 90 ha NTU3 và triển khai khu dân cư Uyên Hưng, chi trả 240 tỷ đồng cổ tức cho năm 2020
+__label__FIN#neutral Chứng khoán VPS bất ngờ thu phí dịch vụ hệ thống hàng tháng sau khi vươn lên vị trí số 1 về thị phần môi giới
+__label__FIN#negative Nhà Thủ Đức (TDH) chuẩn bị thoái toàn bộ vốn tại Chứng khoán Sen Vàng
+__label__FIN#negative Nội bộ Damsan (ADS) đồng loạt thoái vốn trước thềm chia cổ tức năm 2020
+__label__FIN#negative Phiên 14/6: Khối ngoại trở lại bán ròng, tập trung “xả” chứng chỉ quỹ ETF
+__label__FIN#positive Vinaseed (NSC) sắp chi trả cổ tức bằng tiền mặt đợt 1/2020 với tỷ lệ 20%
+__label__FIN#positive Nhà Khang Điền (KDH) sắp huy động 400 tỷ từ trái phiếu
+__label__FIN#neutral Chủ tịch FPT IS: Đã hoàn thành 80% hệ thống khớp lệnh mới
+__label__FIN#neutral Danh mục đầu tư quý II của V.N.M ETF: Tại sao APH được lựa chọn?
+__label__FIN#positive "Platinum Victory tiếp tục đăng ký ""gom"" 13 triệu cổ phiếu REE"
+__label__FIN#positive Cú bear trap khiến nhiều nhà đầu tư lỡ tay bán cổ phiếu, HNX30-Index vượt 500 điểm
+__label__FIN#neutral Tiêu điểm xử phạt tuần qua: Rất nhiều cá nhân bị UBCKNN phạt
+__label__FIN#neutral Cổ đông lớn Nam Thịnh quyết tâm thoái toàn bộ vốn tại CC1 sau 3 lần không thành công
+__label__FIN#neutral Lịch sự kiện và tin vắn chứng khoán ngày 14/6
+__label__FIN#neutral Lịch chốt quyền nhận cổ tức bằng tiền của 10 doanh nghiệp
+__label__FIN#positive Chứng khoán APG tăng vốn gấp hơn 2 lần, bổ sung nguồn cho tự doanh và cho vay margin
+__label__FIN#neutral "Miệt mài bán ròng 31.000 tỷ đồng từ đầu năm, khối ngoại tập trung ""xả"" cổ phiếu nào?"
+__label__FIN#neutral Digiworld (DGW): Loạt lãnh đạo chuyển nhượng cổ phần với tổng giá trị 950 tỷ đồng để thành lập công ty mới
+__label__FIN#neutral Hai quỹ ETF với tổng quy mô gần 1 tỷ USD sẽ cơ cấu ra sao trong tuần 14-18/6?
+__label__FIN#neutral Tuần 14-18/6: Tâm điểm cuộc họp chính sách FED và hoạt động cơ cấu ETFs, VN-Index tiếp tục xu hướng giằng co?
+__label__FIN#neutral Xu thế dòng tiền: Bắt đáy cổ phiếu ngân hàng, điều chỉnh đã xong?
+__label__FIN#positive Gia nhập cuộc đua, chứng khoán MBKE chuẩn bị tăng vốn lên 1.745 tỷ đồng
+__label__FIN#neutral Điểm danh những doanh nghiệp chốt quyền nhận cổ tức bằng tiền, bằng cổ phiếu và cổ phiếu thưởng tuần từ 14/6-18/6
+__label__FIN#negative Vốn hóa Việt An giảm 30% khi lãnh đạo bị bắt tạm giam
+__label__FIN#positive VDSC: Mảng thép cán nóng tiếp tục duy trì mức sinh lời cao, Hoà Phát (HPG) có thể đạt 10.200 tỷ lợi nhuận trong quý 2/2021
+__label__FIN#neutral Đừng để cổ tức thành “tức cổ”
+__label__FIN#positive "FiinGroup ""bắt mạch"" sức nóng cổ phiếu ngành chứng khoán, lưu ý rủi ro từ cuộc đua tăng vốn của doanh nghiệp"
+__label__FIN#negative Thép Nam Kim (NKG) đăng ký bán toàn bộ 10 triệu cổ phiếu quỹ
+__label__FIN#negative Khối ngoại bán ròng tuần thứ 6 liên tiếp, nhưng giá trị giảm còn 730 tỷ đồng
+__label__FIN#positive Hoàng Anh Gia Lai (HAGL) muốn đầu tư 5.000 tỷ trồng rừng, xây nhà máy điện, chế biến gỗ tại Kon Tum
+__label__FIN#neutral VNM ETF thêm mới 6 cổ phiếu PDR, STB, VCI, APH, HSG và HNG trong kỳ review quý 2/2021
+__label__FIN#positive Bộ trưởng Hồ Đức Phớc: Tháng 7 sẽ hết nghẽn lệnh trên HOSE
+__label__FIN#positive Vĩnh Hoàn (VHC): Doanh thu tháng 5 tăng 35% lên 743 tỷ đồng, xuất khẩu sang Mỹ tăng mạnh 188%
+__label__FIN#positive HAGL (HAG) đã thanh toán trước hạn toàn bộ 930 tỷ nợ tại HDBank
+__label__FIN#positive Đất Xanh (DXG): Điều chỉnh phương án phát hành, cổ phiếu lập tức kịch trần
+__label__FIN#neutral Fiin Group đánh giá tích cực triển vọng ngành BĐS nhà ở, định giá ngành Dầu khí không còn rẻ
+__label__FIN#positive Cổ phiếu gấp 5 lần trong vòng 1 năm đưa tài sản Chủ tịch Phát Đạt vượt 1 tỷ USD dù không phải cái tên đình đám ngành địa ốc
+__label__FIN#neutral Tỷ phú Stanley Druckenmiller: Chính sách tiền tệ của Fed khiến nhà đầu tư chìm trong cảm giác an toàn giả tạo!
+__label__FIN#positive Đông Á Hotel (DAH) thông qua phương án chào bán riêng lẻ 50 triệu cổ phiếu, tăng vốn điều lệ lên gấp rưỡi
+__label__FIN#neutral FiinGroup: Cổ phiếu ngân hàng không còn nhiều hấp dẫn, dư địa tăng giá cho nhóm Bảo hiểm, BĐS và Bán lẻ
+__label__FIN#positive Chứng khoán Pinetree vừa bổ sung 20 triệu USD vốn vay từ Woori bank
+__label__FIN#neutral Giá bán phân bón tăng mạnh, cơ hội bứt phá cho Đạm Cà Mau?
+__label__FIN#positive Phiên 11/6: Khối ngoại trở lại mua ròng gần 650 tỷ đồng, VN-Index bứt phá vượt mốc 1.350 điểm
+__label__FIN#positive "Thị giá ""3 con số"", Thaiholdings (THD) lên kế hoạch phát hành 330 triệu cổ phiếu tăng vốn với mức giá vỏn vẹn 10.000 đồng/cp"
+__label__FIN#neutral Hoà Phát (HPG): Chốt ngày lấy ý kiến cổ đông liên quan đến việc con trai Chủ tịch Trần Đình Long muốn mua thêm 5 triệu cổ phần
+__label__FIN#negative Xây dựng Hòa Bình (HBC): Sẽ thoái vốn tại một số dự án bất động sản trong nước để thu hồi vốn
+__label__FIN#positive Bamboo Capital (BCG) chuẩn bị chi trả cổ tức năm 2021 với tỷ lệ 10%
+__label__FIN#positive Viettel Construction (CTR) chốt ngày chia thưởng cổ phiếu và trả cổ tức bằng tiền cho cổ đông với tổng tỷ lệ 39,5%
+__label__FIN#positive Dòng tiền đổ mạnh vào cổ phiếu ngân hàng, chứng khoán, VN-Index bứt phá hơn 28 điểm, vượt mốc 1.350 trong phiên cuối tuần
+__label__FIN#positive Chứng khoán Thành Công (TCSC) sắp tăng gấp đôi vốn phục vụ cho vay margin
+__label__FIN#positive Cao su Đồng Phú (DPR) dự kiến phát hành cổ phiếu thưởng tăng vốn điều lệ tỷ lệ 100%
+__label__FIN#positive Cổ phiếu chạm đỉnh lịch sử, Dragon Capital chớp thời cơ thoái vốn tại Gelex
+__label__FIN#neutral Lịch sự kiện và tin vắn chứng khoán ngày 11/6
+__label__FIN#positive Dragon Capital: “Định giá cổ phiếu ngân hàng và TTCK Việt Nam vẫn rất hấp dẫn dù đã tăng mạnh”
+__label__FIN#neutral Nghẽn lệnh kéo dài, Bộ Tài chính chỉ đạo khẩn trương thanh tra HoSE
+__label__FIN#positive Bảo hiểm Quân đội (MIG) dự kiến phát hành 13 triệu cổ phiếu trả cổ tức
+__label__FIN#positive ADS ước lãi trước thuế quý 2-2021 tăng 534% so với cùng kỳ
+__label__FIN#positive Công đoàn Rạng Đông, cổ đông độc nhất vô nhị trên TTCK: Sở hữu hơn 40% công ty và ẩn số trước đợt tăng vốn
+__label__FIN#neutral VNM, DQC, NLG, GEX, FDC, CKG, SRF, CQN, APS, SPI: Thông tin giao dịch lượng lớn cổ phiếu
+__label__FIN#positive DIC Corp (DIG) triển khai phương án phát hành 15 triệu cổ phiếu ESOP
+__label__FIN#negative Công ty liên quan đến khoản nợ 107 tỷ đồng của PV Drilling (PVD) nộp đơn xin phá sản
+__label__FIN#positive Cổ phiếu ngành than dậy sóng
+__label__FIN#neutral HoSE đề nghị các Công ty chứng khoán phối hợp quản lý sửa/hủy lệnh theo khung giờ
+__label__FIN#positive Hodeco (HDC) chốt danh sách cổ đông phát hành gần 17 triệu cổ phiếu trả cổ tức tỷ lệ 25%
+__label__FIN#positive Gemadept trình chia cổ tức tỷ lệ 12% năm 2020, kế hoạch lãi 2021 tăng tối thiểu 23%
+__label__FIN#positive Chứng khoán biến động dữ dội, thanh khoản thị trường phái sinh lập kỷ lục trong phiên 10/6
+__label__FIN#positive Tận dụng cơ hội tăng mạnh, quỹ ngoại quy mô 160 triệu USD tranh thủ chốt lời cổ phiếu ngân hàng
+__label__FIN#positive Phiên 10/6: Khối ngoại trở lại mua ròng gần 210 tỷ đồng, bất ngờ “gom” HPG
+__label__FIN#neutral AAA  sẽ có gì trong trung và dài hạn?
+__label__FIN#positive Vinaconex lên kế hoạch huy động 2.200 tỷ trái phiếu, bổ sung vốn cho Cát Bà Amatina
+__label__FIN#negative "Mark Mobius: ""Thị trường đang ở trong giai đoạn không chắc chắn, cần theo dõi chặt chẽ động thái của các ngân hàng trung ương"""
+__label__FIN#neutral Ông Vũ Bằng: 'Hệ thống cũng như con người, phải có lúc ốm đau'
+__label__FIN#positive Viettel Post (VTP) chốt danh sách cổ đông phát hành hơn 20 triệu cổ phiếu trả cổ tức
+__label__FIN#positive Quốc tế Sơn Hà (SHI) thông qua phương án phát hành hơn 9 triệu cổ phiếu trả cổ tức
+__label__FIN#positive "Chốt lời đúng đỉnh, Phó Tổng Đất Xanh (DXG) thoát hai phiên ""nằm sàn"" của cổ phiếu"
+__label__FIN#negative Đầu tư Sài Gòn VRG (SIP) đặt kế hoạch lợi nhuận năm 2021 giảm 53% so với thực hiện năm trước
+__label__FIN#positive ANV tăng mạnh, lãnh đạo công ty Nam Việt (Navico) đăng ký bán bớt 5 triệu cổ phiếu
+__label__FIN#positive Công ty logistics hàng không SCSC tăng trưởng 25% lợi nhuận sau 5 tháng, chia cổ tức 2020 tỷ lệ 80%
+__label__FIN#negative VNM, HPG tăng mạnh nhưng không chống đỡ được áp lực chốt lãi của thị trường, VnIndex giảm 9 điểm cuối phiên
+__label__FIN#positive Đạt Phương (DPG) triển khai phương án phát hành 18 triệu cổ phiếu thưởng, tỷ lệ 40%
+__label__FIN#positive MSB phát hành 18 triệu cổ phiếu ESOP giá 10.000 đồng
+__label__FIN#positive Agriseco (AGR) muốn bán 800.000 cổ phiếu quỹ với giá 13.500 đồng/cp
+__label__FIN#positive Đất Xanh (DXG): Phó Tổng giám đốc đã bán ra cổ phiếu ngay trước chuỗi ngày giảm mạnh
+__label__FIN#neutral PVI, VIB, NLG, DXG, LHC, ST8, TIX, BWE, ANV, ELC, PET, CIG: Thông tin giao dịch lượng lớn cổ phiếu
+__label__FIN#neutral Lịch chốt quyền nhận cổ tức bằng tiền của 9 doanh nghiệp
+__label__FIN#neutral Hanel: Đối tác Cuba chưa thanh toán khoản công nợ 25 triệu USD trong gần 3 năm qua
+__label__FIN#neutral HoSE kết nối thử nghiệm hệ thống KRX từ 14/6
+__label__FIN#neutral Lịch sự kiện và tin vắn chứng khoán ngày 10/6
+__label__FIN#neutral Digiworld (DGW): Quỹ Phần Lan Evil bán ra cổ phiếu, không còn là cổ đông lớn
+__label__FIN#neutral Công ty chứng khoán mở lại tính năng hủy/sửa lệnh trên HoSE
+__label__FIN#negative HDI Global SE muốn bán bớt gần 14 triệu cổ phiếu PVI
+__label__FIN#negative Nhà đầu tư dần thận trọng với “game” phát hành tăng vốn
+__label__FIN#negative Bất chấp thị trường hồi phục, khối ngoại vẫn bán ròng gần 650 tỷ đồng trong phiên 9/6
+__label__FIN#negative Tanimex (TIX) muốn thoái vốn tại hai công ty thành viên
+__label__FIN#positive TNS Holdings sắp phát hành 10,5 triệu cổ phiếu trả cố tức năm 2020
+__label__FIN#neutral HSBC: Vì sao TTCK Bangladesh ở thời điểm hiện tại được ví như TTCK Việt Nam cách đây 5 năm?
+__label__FIN#positive Điện Gia Lai (GEG): Huy động tiếp 1.000 tỷ trái phiếu, tăng vốn cho điện gió Tiền Giang
+__label__FIN#neutral "Làn sóng bức xúc của nhà đầu tư chứng khoán lan rộng, HoSE phải hứng ""bão"" đánh giá 1 sao trên Google"
+__label__FIN#positive TS. Nguyễn Trí Hiếu: Thị trường chứng khoán sẽ tiếp tục tăng mạnh
+__label__FIN#positive TTC Land (SCR): Cổ phiếu tăng mạnh sau khi tái cấu trúc, quý 2/2021 ước lãi 172 tỷ đồng
+__label__FIN#positive 'Vua da giày' sắp bỏ hàng trăm tỷ đồng tăng sở hữu tại Nam Long
+__label__FIN#neutral HOSE: Hệ thống giao dịch phối hợp cùng FPT sẽ hoàn thành đúng hạn
+__label__FIN#positive Chứng khoán ACB (ACBS) sắp được tăng vốn thêm 1.500 tỷ đồng
+__label__FIN#positive "HNX-Index bứt phá tăng mạnh mẽ 10 điểm khi sàn HoSE ""ngăn sông cấm chợ "" việc sửa/hủy lệnh"
+__label__FIN#neutral Định giá chứng khoán Việt Nam đã không còn rẻ?
+__label__FIN#positive Tập đoàn dệt may (Vinatex): Kế hoạch lợi nhuận tăng 18% lên 700 tỷ đồng, Trung Quốc dự là thị trường xuất khẩu lớn trong năm 2021
+__label__FIN#neutral Nhà đầu tư F0 cần làm gì sau 2 phiên TTCK lao dốc?
+__label__FIN#positive Thanglong Invest (TIG) thông qua phương án chào bán riêng lẻ 30 triệu cổ phiếu
+__label__FIN#negative Liên tục thoái vốn, Dragon Capital không còn là cổ đông lớn tại CII
+__label__FIN#negative "Cổ đông ngoại tại Viconship (VSC) ""xuống tàu"", thoái sạch 6,2 triệu cổ phiếu"
+__label__FIN#neutral Sau 2 phiên “đỏ lửa”, VN-Index sẽ hồi phục tại vùng 1.300 điểm?
+__label__FIN#neutral Lịch sự kiện và tin vắn chứng khoán ngày 9/6
+__label__FIN#neutral Hơn 55 triệu cổ phiếu HAP của Hapaco sẽ chuyển sang giao dịch sàn HNX từ ngày 17/6
+__label__FIN#positive SHS vừa vay 1.800 tỷ từ SHB để bổ sung nguồn
+__label__FIN#neutral VNM, SSI, NKG, CII, CC1, VSC, CDP, TIX, TID, LTC: Thông tin giao dịch lượng lớn cổ phiếu
+__label__FIN#positive Nam Long (NLG) chào bán 60 triệu cổ phần giá tối đa 37.800 đồng/cp, Gelex là 1 trong 2 nhà đầu tư mua vào lượng lớn
+__label__FIN#neutral Doanh nghiệp niêm yết sắp phá kỷ lục huy động vốn từ thị trường chứng khoán?
+__label__FIN#positive Chứng khoán Bản Việt (VCI) phát hành hơn 166 triệu cổ phiếu thưởng tỷ lệ 100%
+__label__FIN#positive Nhiều cổ phiếu tăng mạnh ngược dòng thị trường chứng khoán: Bất ngờ với một chứng quyền tăng 111% - đảo ngược thế thua!
+__label__FIN#negative Sau 2 phiên giảm sâu, vốn hóa HoSE đã “bốc hơi” hơn 200.000 tỷ đồng
+__label__FIN#positive Doanh nghiệp bán sắn trả cổ tức 50% bằng tiền mặt và 10% bằng cổ phiếu
+__label__FIN#neutral Novaland đàm phán chuyển nhượng dự án nào để có lãi 8.000 tỷ đồng?
+__label__FIN#negative Nhiều nhà đầu tư khóc ròng vì lao theo cổ phiếu dầu khí
+__label__FIN#negative Thị trường “đỏ lửa”, khối ngoại vẫn bán ròng gần 300 tỷ đồng trong phiên 8/6
+__label__FIN#positive Noibai Cargo (NCT) chia cổ tức đợt 3/2020 bằng tiền mặt tỷ lệ 15%
+__label__FIN#negative CC1 giảm mạnh, Công ty Tuấn Lộc vẫn quyết bán hết 21 triệu cổ phiếu, không còn là cổ đông lớn
+__label__FIN#positive Cao su Đồng Phú (DPR) lên kế hoạch thâu tóm Cao su Đồng Phú - Đắk Nông (DPD)
+__label__FIN#neutral VDSC: Lo ngại về nghẽn lệnh trên sàn HoSE, dự báo VN-Index dao động trong vùng 1.303 - 1.421 điểm trong tháng 6
+__label__FIN#positive Lãi lớn, Pyn Elite Fund hạ tỷ trọng VNDiamond ETF trong tháng 5
+__label__FIN#neutral Những doanh nghiệp chào bán gần 10 tỷ cổ phiếu trên TTCK
+__label__FIN#positive Một cổ phiếu tăng gần 241% sau nửa tháng
+__label__FIN#positive FPT Telecom (FOX) chốt danh sách cổ đông phát hành 55 triệu cổ phiếu trả cổ tức
+__label__FIN#negative Sacombank thoái sạch vốn tại doanh nghiệp sản xuất bao cao su
+__label__FIN#negative Nhà đầu tư chốt lời trên diện rộng, VN-Index mất gần 40 điểm với hàng loạt mã giảm sàn
+__label__FIN#neutral "Phân tích của công ty chứng khoán ""lệch sóng"" vì dòng tiền F0"
+__label__FIN#negative VEAM Corp: Chỉ tiêu lợi nhuận giảm 19% xuống còn 5.930 tỷ đồng, tiếp tục trình kế hoạch niêm yết
+__label__FIN#neutral Lịch sự kiện và tin vắn chứng khoán ngày 8/6
+__label__FIN#negative Yuanta: Nhóm ngân hàng và thép còn ít dư địa tăng trưởng, VN-Index điều chỉnh trong vùng 1.283 – 1.300 điểm
+__label__FIN#negative VN-Index “chao đảo”, nhiều CTCK khuyến nghị nhà đầu tư nên chốt lãi một phần cổ phiếu
+__label__FIN#positive Tập đoàn dầu khí Việt Nam (PVN): Thu về 15.300 tỷ lợi nhuận sau 5 tháng, tăng cao gấp 3 lần cùng kỳ năm 2020
+__label__FIN#positive Đất Xanh (DXG): Năm 2021 đặt chỉ tiêu lãi ròng 1.350 tỷ đồng và phát hành 207 triệu cổ phần
+__label__FIN#neutral G36, HNG, VIB, SHB, DLG, HCM, OPC, PGC, IMP, SPV, PAC, TIX, TDM, STV, MRF, PEC, VKC: Thông tin giao dịch lượng lớn cổ phiếu
+__label__FIN#neutral Lịch chốt quyền nhận cổ tức bằng tiền của 10 doanh nghiệp
+__label__FIN#positive Nhiệt điện Hải Phòng (HND) chi tiếp 350 tỷ đồng trả cổ tức còn lại năm 2020
+__label__FIN#neutral Công đoàn Rạng Đông sẽ chi hàng trăm tỷ đồng mua cổ phiếu trong đợt phát hành tăng vốn kỷ lục của công ty?
+__label__FIN#negative Hoàng Anh Gia Lai tiếp tục thoái vốn tại HAGL Agrico (HNG)
+__label__FIN#positive Dat Xanh Services đẩy mạnh kênh bán hàng trực tuyến, vững vàng vượt thách thức
+__label__FIN#positive Cổ phiếu FLC được khối ngoại mua ròng 10 phiên liên tiếp
+__label__FIN#positive Dược phẩm OPC chuẩn bị trả cổ tức đợt 2/2020 bằng tiền mặt với tỷ lệ 20%
+__label__FIN#positive "Mirae Asset: ""Định giá hấp dẫn, VN-Index sẽ chinh phục ngưỡng 1.500 điểm trong năm 2021"""
+__label__FIN#negative Thị trường “hạ nhiệt”, khối ngoại tiếp tục bán ròng 650 tỷ đồng trong phiên 7/6
+__label__FIN#neutral Ông Nguyễn Duy Hưng: Đưa cảm xúc vào trong đầu tư là điều tai hại nhất
+__label__FIN#positive Hai cá nhân gom gần 3 triệu cổ phiếu, trở thành cổ đông lớn tại STV trước thời điểm hủy đăng ký giao dịch
+__label__FIN#positive Vận tải SAFI sắp chi trả cổ tức bằng tiền với tỷ lệ 15%
+__label__FIN#positive AGR triển khai gói 500 tỷ, lãi suất 7.1% và miễn phí giao dịch
+__label__FIN#positive Tổng Giám đốc Đường Quảng Ngãi (QNS) liên tục gom cổ phiếu
+__label__FIN#positive Bloomberg: Đà thăng hoa của Vn-Index sẽ vẫn tiếp tục trong phần còn lại của năm 2021 và hướng đến mốc 1.500 điểm
+__label__FIN#neutral Tăng thu nhập không giới hạn cùng MBS Mobile App
+__label__FIN#negative Tập đoàn Cao su muốn thoái vốn tại KCN Nam Tân Uyên (NTC)
+__label__FIN#neutral Cổ phiếu ngân hàng nào còn tiềm năng?
+__label__FIN#negative Cổ phiếu ngân hàng vẫn đỏ lửa cuối phiên, VnIndex mất 15 điểm
+__label__FIN#positive PNJ: Hoạt động bán lẻ đang tốt hơn kỳ vọng ban đầu, tăng trưởng doanh số của các cửa hàng hiện hữu tiếp tục ở mức cao cho đến hết quý 3/2021
+__label__FIN#positive FPT Shop nhảy vào mảng ‘bán sỉ’ laptop, điện thoại… đón đầu nhu cầu tăng cao giữa dịch Covid-19
+__label__FIN#neutral Lịch sự kiện và tin vắn chứng khoán ngày 7/6
+__label__FIN#positive "Cổ phiếu ngân hàng: ""Đắt xắt ra miếng"""
+__label__FIN#neutral VN-Index đang bước vào nhịp tăng nóng, nhà đầu tư có thể “canh” chốt lời?
+__label__FIN#positive "Novaland phát hành cổ phiếu thưởng và chia cổ tức lên tới 60%  NovaWorld Phan Thiet, Aqua City và NovaWorld Ho Tram có thể đem lại 2 tỷ USD lợi nhuận"
+__label__FIN#neutral [Quy tắc đầu tư vàng] Để thành công trên thị trường chứng khoán có nhất thiết phải thông minh?
+__label__FIN#neutral "Những lần chỉ báo ""đi vào lòng đất"" của thầy giáo dạy đầu tư chứng khoán sở hữu kênh YouTube gần 600.000 sub: Hô bắt đáy giá dầu thì dầu giảm thêm 60%, kiên nhẫn đợi VnIndex giảm thì lại vụt tăng, gọi VIC là Vincom?"
+__label__FIN#positive "Thị trường tăng ""nóng"", Tundra hạ tỷ trọng LienVietPost Bank (LPB), gia tăng nắm giữ tiền mặt"
+__label__FIN#negative Khối ngoại bán ròng vượt mốc 30.000 tỷ đồng trên HoSE từ đầu năm 2021
+__label__FIN#positive Rạng Đông (RAL) lên kế hoạch chào bán 11 triệu cổ phiếu cho cổ đông hiện hữu, huy động nghìn tỷ đầu tư nhà máy tại Hòa Lạc
+__label__FIN#neutral "Giá đất ""nhảy múa"", cổ phiếu BĐS nhà ở nào đáng để đầu tư?"
+__label__FIN#negative VCSC: Chuyến bay thương mại quốc tế sẽ chưa được nối cho đến quý 4/2021, Vietnam Airlines gặp thêm nhiều trở ngại khi Covid-19 quay lại
+__label__FIN#neutral Hé lộ tình hình tài chính của Bamboo Airways khi nộp đơn xin bay tại Mỹ
+__label__FIN#negative Khối ngoại tiếp tục bán ròng kỷ lục gần 6.170 tỷ đồng trong tuần 28/5-4/6
+__label__FIN#positive VNDIRECT: “Định giá thị trường không còn rẻ, VN-Index có thể kiểm định lại vùng 1.280 – 1.300 điểm trong tháng 6”
+__label__FIN#positive "Dạy đầu tư chứng khoán nhưng ""đoán toàn sai"", thầy giáo sở hữu kênh YouTube gần 600.000 sub vướng tranh cãi: Người nói ""đã giàu thì không đi dạy làm giàu"", người khen thuận mua vừa bán"
+__label__FIN#positive Người nhà lãnh đạo May Sông Hồng chi 26 tỷ mua vào cổ phiếu
+__label__FIN#negative Thị trường chứng khoán tiềm ẩn rủi ro từ sự tăng nóng
+__label__FIN#positive ĐHĐCĐ HAGL Agrico (HNG): Diện tích đất nông nghiệp còn hơn 35.700ha, sẽ tăng vốn thêm hơn 7.400 tỷ đồng để giảm nợ
+__label__FIN#negative "Phó Chủ tịch UBCKNN: ""Margin thị trường cuối tháng 5 hơn 112.000 tỷ đồng, mặt bằng chứng khoán đã lên cao, tạo ra rủi ro khi điều chỉnh"""
+__label__FIN#negative Cổ đông nội bộ của Gỗ An Cường bán ra hàng triệu cổ phiếu trước thềm giao dịch trên UPCoM
+__label__FIN#neutral FTSE Vietnam Index thêm HSG, loại DXG khỏi danh mục trong kỳ review quý 2/2021
+__label__FIN#positive Chứng khoán SSI thông qua phương án phát hành 329 triệu cổ phiếu thưởng và chào bán cho cổ đông hiện hữu
+__label__FIN#neutral Doanh nghiệp nộp hồ sơ niêm yết HoSE trở lại khi nghẽn lệnh được cải thiện
+__label__FIN#positive Platinum Victory tiếp tục đăng ký mua gần 21 triệu cổ phiếu VNM
+__label__FIN#negative Phiên 4/6: Khối ngoại tiếp tục bán ròng hơn 1.500 tỷ đồng, tập trung “hỏa lực” vào MBB, HPG
+__label__FIN#positive Tập đoàn Cao su (GVR) đặt mục tiêu LNST năm 2021 gần 4.600 tỷ, chia cổ tức 6% bằng tiền mặt
+__label__FIN#neutral Cổ phiếu nào đáng đầu tư trên HNX và UpCOM khi HoSE quá tải?
+__label__FIN#positive Loạt cổ phiếu dược tăng trần khi được cấp phép nhập khẩu vắc xin Covid-19
+__label__FIN#positive "Liên tục ""lướt sóng"", vợ Phó Chủ tịch VIB đăng ký mua 2 triệu cổ phiếu sau khi vừa bán ra 8,5 triệu cổ phiếu"
+__label__FIN#positive Điểm danh những doanh nghiệp chốt quyền nhận cổ tức bằng tiền, bằng cổ phiếu và cổ phiếu thưởng tuần từ 7/6-11/6
+__label__FIN#neutral CTCK đồng thuận tạm dừng tính năng hủy/sửa lệnh, thanh khoản HoSE tăng vọt, lên thứ 2 Đông Nam Á
+__label__FIN#positive Tiền cuồn cuộn đổ vào thị trường chứng khoán, VnIndex tăng tiếp 10 điểm
+__label__FIN#neutral Lịch chốt quyền nhận cổ tức bằng tiền của 10 doanh nghiệp
+__label__FIN#neutral Chứng khoán SmartInvest (AAS) chào bán riêng lẻ 49 triệu cổ phiếu cho 15 nhà đầu tư
+__label__FIN#positive Vicostone (VCS) chốt quyền tạm ứng cổ tức năm 2021 bằng tiền tỷ lệ 20%
+__label__FIN#positive "Kinh Bắc (KBC): Liên tục ""hút"" hàng ngàn tỷ trái phiếu, tháng 6 tiếp tục lên kế hoạch huy động thêm 1.500 tỷ đồng trái phiếu chào bán ra công chúng"
+__label__FIN#positive Lãi lớn quý 1, Vicostone (VCS) tạm ứng cổ tức bằng tiền tỷ lệ 20% cho năm 2021
+__label__FIN#positive GEX: CEO Nguyễn Văn Tuấn đã hoàn tất mua 30 triệu cổ phiếu, nâng sở hữu lên 17,7% vốn
+__label__FIN#positive Gốm Mỹ Xuân (GMX) triển khai phương án phát hành cổ phiếu thưởng và trả cổ tức tổng tỷ lệ 70%
+__label__FIN#neutral C4G, GEX, VIB, DPC, HND, S99, LCS, DTD, CSI, THP, THU, FIR, DBT: Thông tin giao dịch lượng lớn cổ phiếu
+__label__FIN#positive S99 giảm 40% trong 3 tháng, Chủ tịch HĐQT công ty SCI đã mua thêm hơn 5 triệu cổ phiếu
+__label__FIN#neutral Lịch sự kiện và tin vắn chứng khoán ngày 4/6
+__label__FIN#neutral “Cơn say” ở cổ phiếu ngân hàng: Muôn sự nhờ... “game”
+__label__FIN#positive Vietjet Air (VJC) vừa huy động 1.000 tỷ trái phiếu, đẩy mạnh dịch vụ hàng không nhằm bù đắp hoạt động khai thác vận tải
+__label__FIN#positive "Chứng khoán BSC: ""Làn sóng Covid thứ 4 được đẩy lùi, VN-Index duy trì đà tăng và hướng về ngưỡng 1.400 điểm trong tháng 6"""
+__label__FIN#positive Chứng khoán Trí Việt (TVB): Tạm ứng cổ tức 9.6% tiền mặt
+__label__FIN#neutral Tăng bằng lần từ đầu năm, cổ phiếu ngành chứng khoán có còn hấp dẫn?
+__label__FIN#neutral Thay đổi quan trọng tại Đại hội đồng cổ đông thường niên 2021 BenThanh Tourist
+__label__FIN#positive Tư vấn xây dựng điện 2 (TV2) triển khai phát hành 9 triệu  cổ phiếu trả cổ tức
+__label__FIN#positive Waseco chốt quyền cổ tức 13% bằng tiền mặt
+__label__FIN#positive Vicotex (TVT) chốt quyền trả cổ tức bằng tiền mặt tỷ lệ 17%
+__label__FIN#neutral Bộ trưởng Bộ Tài chính: Phải quyết liệt giải quyết nghẽn lệnh bởi “ách tắc” là thiệt hại
+__label__FIN#negative Phiên 3/6: Khối ngoại tiếp tục bán ròng hơn 1.100 tỷ đồng, bán mạnh HPG, MBB
+__label__FIN#neutral Cổ phiếu dầu khí nào tương quan mạnh nhất với giá dầu?
+__label__FIN#negative Cổ phiếu CII giảm sâu, quỹ Dragon Capital tiếp tục thoái vốn
+__label__FIN#negative HoSE: Khối ngoại bán ròng hơn 30.858 tỷ đồng cổ phiếu trong 5 tháng đầu năm, cao gấp đôi so với cùng kỳ
+__label__FIN#positive Dược phẩm Mekophar (MKP) chốt quyền trả cổ tức 10% bằng tiền và 10% bằng cổ phiếu
+__label__FIN#neutral Con trai Chủ tịch Hòa Phát phải tạm dừng mua 5 triệu cổ phiếu HPG
+__label__FIN#positive Thủy sản Minh Phú lên kế hoạch lãi vượt 1.000 tỷ, dự kiến chia cổ tức lên tới 70% năm 2021
+__label__FIN#positive Hơn 37.000 tỷ đổ vào thị trường, VN-Index lập đỉnh mới 1.364 điểm với hàng loạt mã tăng trần
+__label__FIN#positive Tài chính Hoàng Huy (TCH) bán xong gần 10 triệu cổ phiếu quỹ, thu về 224 tỷ đồng
+__label__FIN#neutral Liên tục nổi sóng, nhiều tổ chức “cuống cuồng” nâng giá mục tiêu cổ phiếu ngân hàng
+__label__FIN#neutral Con trai ông Trần Đình Long phải tạm dừng việc mua thêm 5 triệu cổ phiếu HPG theo yêu cầu của UBCK
+__label__FIN#neutral DLG, VIB, OCB, TVB, CII, PNG, TNT, TCO, ELC, HHP: Thông tin giao dịch lượng lớn cổ phiếu
+__label__FIN#neutral Lịch sự kiện và tin vắn chứng khoán ngày 3/6
+__label__FIN#neutral Nhiều CTCK đưa ra thông báo sẽ chặn Hủy/Sửa lệnh trên sàn HoSE để giảm thiểu tình trạng tắc nghẽn
+__label__FIN#positive VNDIRECT chốt quyền chào bán 214 triệu cổ phiếu, dự kiến huy động hơn 3.100 tỷ đồng
+__label__FIN#negative Công ty khai thác vàng duy nhất trên sàn: Doanh thu bằng không, thua lỗ 2 năm liên tiếp trong khi giá vàng thế giới tăng cao
+__label__FIN#positive SSI Research: Cổ phiếu ngành chứng khoán hấp dẫn, đáng để đầu tư dài hạn
+__label__FIN#positive Vietnam Airlines triển khai đấu giá 11 tàu bay A321CEO, cổ phiếu tăng trần sau 2 tháng giảm liên tục
+__label__FIN#neutral Chứng khoán SSI thoái vốn, không còn là cổ đông lớn tại ELCcom (ELC)
+__label__FIN#negative Khối ngoại bán ròng gần 1.000 tỷ đồng HPG trong phiên 2/6
+__label__FIN#positive Nhiều cổ phiếu “họ” Vinamilk tăng trần
+__label__FIN#neutral Gần nửa triệu tài khoản chứng khoán được nhà đầu tư trong nước mở mới trong 5 tháng, lớn hơn 20% tổng lượng tài khoản trong cả năm 2020
+__label__FIN#neutral Tranh chấp HBC – FLC: Đã đạt được thoả thuận giải quyết toàn bộ vụ án, FLC sẽ thanh toán tiền chậm nhất đến 31/7/2021
+__label__FIN#negative Cổ phiếu liên tục lên đỉnh, mẹ thành viên HĐQT Nam Long đăng ký thoái 1,5 triệu cổ phiếu
+__label__FIN#negative Tăng hơn 10 lần trong vòng 1 năm, cổ phiếu TCM quay đầu giảm 20% kể từ khi chính thức lọt rổ Diamond ETF
+__label__FIN#positive Bầu Thụy đăng ký mua hơn 32,5 triệu cổ phiếu LPB
+__label__FIN#positive Cát Lợi (CLC) trả nốt cổ tức đợt cuối năm 2020 bằng tiền tỷ lệ 20%
+__label__FIN#neutral "Một CTCK có cổ phiếu tăng trưởng hơn 260% từ đầu năm bị chủ nợ ra ""tối hậu thư"" yêu cầu phá sản"
+__label__FIN#neutral Lịch chốt quyền nhận cổ tức bằng tiền của 14 doanh nghiệp
+__label__FIN#positive VnIndex tăng 3 điểm cuối phiên, GAS tăng mạnh giúp cân bằng với đà giảm của cổ phiếu ngân hàng
+__label__FIN#neutral Vì sao thoái vốn Nhà nước 'đóng băng' dù thị trường chứng khoán liên tục thăng hoa?
+__label__FIN#neutral Bkav lần đầu phát hành trái phiếu, CEO Nguyễn Tử Quảng để ngỏ kế hoạch niêm yết công ty diệt virus trên sàn chứng khoán
+__label__FIN#neutral HSG: Liên tục phá đỉnh với đà tăng gấp đôi từ đầu năm, dư địa tăng trưởng liệu còn tiếp diễn?
+__label__FIN#neutral Lịch sự kiện và tin vắn chứng khoán ngày 2/6
+__label__FIN#positive KIDO (KDC): Chuyển đổi mô hình kinh doanh, đặt kế hoạch LNTT năm 2021 tăng gấp đôi lên 800 tỷ đồng
+__label__FIN#neutral QNS, NSH, TVC, PVL, SPI, EVG, AGM, CMX, TCO, TIX, SHG, ILA, PEC, MKP, FGL, VNH, SNC, SD1, SD2, KVC, INN, DDG: Thông tin giao dịch lượng lớn cổ phiếu
+__label__FIN#positive Chứng khoán SSI chốt quyền chia cổ tức bằng tiền năm 2020 với tỷ lệ 10%
+__label__FIN#neutral Sàn HoSE tạm ngừng giao dịch, FPT đang xử lý quá tải hệ thống ra sao?
+__label__FIN#neutral Ngày mai, HOSE trở lại giao dịch bình thường
+__label__FIN#positive Thị trường được thúc đẩy bởi dòng vốn nội, cổ phiếu chứng khoán, ngân hàng, bất động sản tiếp tục hưởng lợi?
+__label__FIN#positive FLC xúc tiến phát hành thêm cổ phiếu, dự kiến sớm nhất 21/6 chốt danh sách cổ đông
+__label__FIN#positive Quỹ iShares MSCI Frontier and Select EM ETF thêm FLC và 6 cổ phiếu khác vào danh mục
+__label__FIN#negative VCSC: Thị trường có khả năng rung lắc mạnh, thậm chí điều chỉnh ở vùng 1.350 điểm
+__label__FIN#positive "DHC gia nhập câu lạc bộ cổ phiếu thị giá ""3 chữ số"", kế hoạch đầu tư 250 tỷ đồng cho Bao bì Đông Hải trong năm 2021"
+__label__FIN#negative Phiên 1/6: Khối ngoại tiếp tục bán ròng gần 600 tỷ đồng, tập trung “xả” HPG
+__label__FIN#neutral 21.700 tỷ giao dịch trong phiên sáng: HOSE ngưng giao dịch chiều 1/6, giá đóng cửa là giá khớp lệnh cuối cùng trong buổi sáng
+__label__FIN#negative Công ty liên quan đến Chủ tịch đã bán ra 1,5 triệu cổ phiếu TVC
+__label__FIN#negative "Tăng ""nóng"" 450%, cổ phiếu TGG bị đưa vào diện kiểm soát để bảo vệ nhà đầu tư"
+__label__FIN#positive Cao su Sao Vàng (SRC) bổ sung đăng ký kinh doanh sắt thép giữa lúc giá tăng phi mã
+__label__FIN#positive Dabaco (DBC) chốt danh sách cổ đông phát hành 10,5 triệu cổ phiếu trả cổ tức
+__label__FIN#neutral Sàn HoSE ngưng giao dịch trong phiên chiều, VN-Index giữ vững đà tăng gần 10 điểm
+__label__FIN#positive SSIAM VNFIN LEAD vượt trội thị trường với mức tăng trưởng 60%, nhiều quỹ lớn vẫn thua VN-Index
+__label__FIN#positive Không 'Sell in May', thị trường chứng khoán thiết lập hàng loạt kỷ lục
+__label__FIN#neutral Lịch sự kiện và tin vắn chứng khoán ngày 1/6
+__label__FIN#positive Hoà Phát vượt 10 tỷ USD, bỏ xa Vietinbank, BIDV vào Top4 vốn hoá lớn nhất thị trường, TTCK Việt Nam đã có 44 doanh nghiệp tỷ USD
+__label__FIN#neutral Thị trường lên đỉnh, hàng trăm mã chứng khoán vẫn ngược dòng giảm trong 5 tháng đầu năm 2021
+__label__FIN#neutral HPG, VIB, DXG, TID, TVC, GIL, MSH, TIX, TLT, DHC, SGC: Thông tin giao dịch lượng lớn cổ phiếu
+__label__FIN#neutral Xây dựng Hoà Bình (HBC): Cựu sếp Chứng khoán HSC ứng cử Thành viên HĐQT độc lập
+__label__FIN#positive VIB tăng mạnh, người nhà Phó Chủ tịch HĐQT đã bán xong 8,5 triệu cổ phiếu
+__label__FIN#neutral Đầu tư Thành Thành Công thoái xong vốn tại Tổng Công ty Tín Nghĩa, thu về hơn 800 tỷ đồng
+__label__FIN#positive Vẫn còn “sót” 9 ngân hàng có vốn hóa dưới 1 tỷ USD sau nhịp bứt phá mạnh 5 tháng đầu năm
+__label__FIN#positive Masan Group (MSN) sắp chi 1.175 tỷ trả cổ tức bằng tiền mặt, mỗi cổ đông sẽ nhận về 1.000 đồng/cổ phiếu
+__label__FIN#positive VietinBank chuẩn bị chia cổ tức bằng cổ phiếu tỷ lệ 29%, tăng mạnh vốn điều lệ lên hơn 48.000 tỷ đồng
+__label__FIN#negative Khối ngoại bán ròng gần 1.700 tỷ đồng trong phiên giao dịch cuối tháng 5, tập trung bán HPG và cổ phiếu ngân hàng
+__label__FIN#neutral Tiềm năng nhóm chứng khoán sau khi nút thắt “tắc nghẽn” được giải quyết
+__label__FIN#positive "Thị trường chứng khoán tăng ""phi mã"", nhiều doanh nghiệp đem bán cổ phiếu quỹ"
+__label__FIN#neutral "Bán non cổ phiếu ngân hàng, nhiều nhà đầu tư chọn ""đu đỉnh"" cổ phiếu chứng khoán"
+__label__FIN#positive Chứng khoán Tiên Phong (ORS) chào bán 100 triệu cổ phiếu, tăng vốn điều lệ lên 2.000 tỷ đồng
+__label__FIN#positive "Cổ phiếu ngân hàng, chứng khoán đua nhau ""tím lịm"", VnIndex tăng gần 8 điểm cuối phiên"
+__label__FIN#positive Vợ Tổng Giám đốc VRC đăng ký bán hơn 1 triệu cổ phiếu
+__label__FIN#neutral "Những cổ phiếu có thị giá ""đắt đỏ"" nhất sàn chứng khoán biến động thế nào trong tháng 5?"
+__label__FIN#neutral Lịch sự kiện và tin vắn chứng khoán ngày 31/5
+__label__FIN#neutral Lịch chốt quyền nhận cổ tức bằng tiền của 7 doanh nghiệp
+__label__FIN#positive BSC nâng mạnh mức định giá cổ phiếu 15 ngân hàng, VCB cao nhất 135.000 đồng
+__label__FIN#neutral Cổ phiếu ngân hàng trở lại thời “hoàng kim”, VN-Index hướng tới những đỉnh cao mới?
+__label__FIN#positive Chứng khoán tiền vào cuồn cuộn, BĐS nhấp nhổm ngóng nhà đầu tư quay lại
+__label__FIN#neutral "Những cổ phiếu ""tăng bằng lần"" trong tháng 5: Quán quân thuộc về cổ phiếu tăng gấp 9 lần trong tháng"
+__label__FIN#neutral Hàng chục cổ phiếu tăng bằng lần từ đầu năm 2021
+__label__FIN#neutral [Quy tắc đầu tư vàng] Cách huyền thoại đầu tư người Do Thái đạt tỷ suất 25%/năm không thua gì Warren Buffett trong suốt 28 năm
+__label__FIN#positive Đón đầu làn sóng tăng vốn, CTCK mở rộng nghiệp vụ bảo lãnh phát hành
+__label__FIN#negative Cổ phiếu vaccine duy nhất trên sàn tăng 9 lần trong vòng 1 tháng lên 161.000 đồng đã quay đầu giảm mạnh
+__label__FIN#negative Sau nhiều tháng hút vốn mạnh, các quỹ ETFs trên TTCK Việt Nam đã bị rút ròng gần 1.600 tỷ đồng trong tháng 5
+__label__FIN#neutral Lịch chốt quyền nhận cổ tức bằng tiền của 14 doanh nghiệp
+__label__FIN#neutral Bloomberg: Nhà đầu tư F0 là động lực đưa TTCK Việt Nam tăng trưởng tốt nhất châu Á và sẽ tiếp tục dẫn dắt thị trường
+__label__FIN#positive HSG: Tháng 4/2021 lợi nhuận sau thuế 538 tỷ đồng, lũy kế 07 tháng đạt 2.208 tỷ đồng
+__label__FIN#neutral HDG, VIC, MSB, HPG, TID, AGM, AGG, SD2, VRC, DRI, QBS, MQN, CSI: Thông tin giao dịch lượng lớn cổ phiếu
+__label__FIN#positive Sơn Á Đông (ADP) chốt danh sách cổ đông trả cổ tức bằng tiền và cổ phiếu thưởng tổng tỷ lệ 60%
+__label__FIN#neutral Vì sao nhà đầu tư chấp nhận mặt bằng giá cổ phiếu ngân hàng cao hơn?
+__label__FIN#neutral Định giá trở nên hấp dẫn sau chuỗi điều chỉnh của giá cổ phiếu: Đà giảm của VNM sẽ sớm kết thúc?
+__label__FIN#positive Credit Suisse và Deustche Bank sắp nhận 59 triệu cổ phiếu Vingroup để tất toán khoản vay với giá hoán đổi khoảng 93.000 đồng/cp
+__label__FIN#positive Khối ngoại mua ròng phiên thứ 3 liên tiếp, VN-Index bứt phá vượt 1.320 điểm
+__label__FIN#positive Tháng 5 rực rỡ của nhà đầu tư Việt: Cổ phiếu ngân hàng tím lịm, VnIndex liên tục dò đỉnh mới
+__label__FIN#positive Tất cả các cổ phiếu ngân hàng đều tăng giá, nhiều mã tăng kịch trần, chỉ còn 1 cổ phiếu giá dưới 20.000 đồng
+__label__FIN#neutral Điểm danh những doanh nghiệp chốt quyền nhận cổ tức bằng tiền, bằng cổ phiếu và cổ phiếu thưởng tuần từ 31/5-4/6
+__label__FIN#neutral Điều gì khiến cổ phiếu thép “dậy sóng”?
+__label__FIN#neutral "Thị trường BĐS sôi sục với thông tin ""mua nhà không cần tiền mặt"" “nhà đổi nhà"", thực tế mua nhà có dễ như quảng cáo?"
+__label__FIN#positive Doanh nghiệp bất động sản sẽ phát hành hàng tỷ cổ phiếu, thị giá nhiều mã tăng đột biến
+__label__FIN#positive Gelex muốn đổi tên công ty, đẩy nhanh mô hình Holdings
+__label__FIN#neutral Bitexco sẽ bán cổ phần IDC cho ai?
+__label__FIN#positive Ưa thích cổ phiếu Khu công nghiệp, quỹ America LLC tiếp tục tăng sở hữu KCN Tín Nghĩa (TIP) lên hơn 14%
+__label__FIN#positive "VnIndex tăng mạnh 17 điểm, cổ phiếu ngân hàng ""tím lịm"""
+__label__FIN#positive VCSC: Khối ngoại vẫn tiếp tục bán ròng nhưng tín hiệu tích cực đến từ các quỹ ETF
+__label__FIN#positive Phó TGĐ XNK Quảng Bình bán hết 5 triệu cổ phiếu ngay sau khi công ty chuyển sàn niêm yết
+__label__FIN#neutral Margin là “con dao 2 lưỡi”, có nên vay để đầu tư chứng khoán?
+__label__FIN#positive Đất Xanh (DXG): Cổ phiếu tăng điểm, Dragon Capital tiếp tục bán ra 1,8 triệu cổ phiếu
+__label__FIN#positive Lịch chốt quyền nhận cổ tức bằng tiền của 8 doanh nghiệp
+__label__FIN#positive Y tế Việt Mỹ (AMV) triển khai phương án chào bán 40 triệu cổ phiếu
+__label__FIN#neutral Lịch sự kiện và tin vắn chứng khoán ngày 28/5
+__label__FIN#positive VN-Index chấm dứt chuỗi 6 phiên tăng liên tiếp, các CTCK vẫn đồng thuận lạc quan
+__label__FIN#positive Phân bón Bình Điền (BFC) chốt danh sách cổ đông trả cổ tức đợt 2/2020 bằng tiền tỷ lệ 15%
+__label__FIN#positive Chủ tịch Louis Agro tiếp tục thâu tóm “vua gạo” An Giang Angimex
+__label__FIN#positive Masan (MSN): Thị giá 110.000 đồng/cp, sắp phát hành gần 6 triệu cổ phiếu ESOP với giá 10.000 đồng/cp
+__label__FIN#positive Chủ tịch HĐQT Dabaco mua thêm 10,5 triệu cổ phiếu DBC, cùng người thân nắm giữ gần 35% vốn công ty
+__label__FIN#negative ĐHĐCĐ EVNGenco 3 (PGV): Năm 2022 sẽ hoàn tất thoái vốn Vĩnh Sơn – Sông Hinh, tiếp tục trả 5.000 tỷ nợ vay/năm và đưa tỷ lệ nợ/vốn chủ sở hữu thấp hơn 3
+__label__FIN#positive Phiên 27/5: Khối ngoại tiếp tục mua ròng hơn 250 tỷ đồng, tập trung mua PLX, THD
+__label__FIN#neutral Phó chủ tịch HĐQT Hòa Phát hoàn tất tặng lượng cổ phiếu trị giá hơn 750 tỷ cho 3 người con
+__label__FIN#neutral Sudico (SJS) bổ nhiệm ông Đỗ Văn Bình đảm nhiệm chức vụ Chủ tịch Hội đồng quản trị
+__label__FIN#negative Tập đoàn Bitexco muốn thoái vốn khỏi Idico (IDC)
+__label__FIN#positive Khoáng sản và Xây dựng Bình Dương (KSB) dự kiến phát hành hơn 6,6 triệu cổ phiếu trả cổ tức
+__label__FIN#positive Chứng khoán Đại Nam (DNSE) chuẩn bị tăng vốn lên 1.000 tỷ đồng, tham gia thị trường phái sinh
+__label__FIN#negative "Hệ thống tiếp tục ""nghẽn"", VN-Index đảo chiều về sát mốc 1.300 điểm"
+__label__FIN#neutral Cổ phiếu vốn hóa và vừa nhỏ giao dịch ra sao khi VN-Index vượt 1.300 điểm?
+__label__FIN#neutral Lịch sự kiện và tin vắn chứng khoán ngày 27/5
+__label__FIN#positive "VNDIRECT: ""Khó khăn tại Myanmar là cơ hội để dệt may Việt Nam gia tăng thị phần xuất khẩu"""
+__label__FIN#neutral LPB, HT1, TCO, CLW, PPE, VND, TNG, THS, THD: Thông tin giao dịch lượng lớn cổ phiếu
+__label__FIN#neutral FTSE Vietnam ETF và VNM ETF sẽ cơ cấu danh mục ra sao trong tháng 6?
+__label__FIN#positive PV Power dự kiến triển khai đầu tư Nhà máy điện Nhơn Trạch 3&4, đặt kế hoạch lãi trước thuế 1.549 tỷ đồng trong năm 2021
+__label__FIN#negative Tập đoàn Hoá chất lên kế hoạch thoái vốn tại DAP Vinachem (DDV), có thể giảm về 0%
+__label__FIN#negative Reuters: Thương vụ niêm yết VinFast tại Mỹ có thể chậm hơn dự kiến
+__label__FIN#positive Novaland thông qua nghị quyết phân phối cổ phiếu thưởng với tỷ lệ gần 36%
+__label__FIN#positive Đại diện VCSC: Ngày càng nhiều quỹ đầu tư riêng biệt vào thị trường Việt Nam và xu hướng này sẽ dẫn dắt dòng tiền quay trở lại
+__label__FIN#neutral Chưa phải công ty đại chúng, Công ty mẹ Bia Việt Hà hủy giao dịch UpCOM
+__label__FIN#negative Bị ảnh hưởng nặng nề bởi Covid-19, Khách sạn Đông Á (DAH) phải vay 50 tỷ đồng của thành viên HĐQT trả nợ thuế, lãi vay
+__label__FIN#positive Chứng khoán Trí Việt (TVB) chào bán gần 36 triệu cổ phiếu, tăng vốn điều lệ lên gấp rưỡi
+__label__FIN#positive Phiên 26/5: Khối ngoại trở lại mua ròng, tập trung “gom” PLX, VHM
+__label__FIN#neutral Hải An (HAH) sẽ đầu tư gần 900 tỷ đồng cho đội tàu và hệ thống cảng trong năm 2021
+__label__FIN#neutral "Vinapharm (DVN): Tiếp tục trình phương án thoái vốn của Bộ Y tế, vẫn ở khâu xây dựng kế hoạch sau 4 năm ""đánh tiếng"""
+__label__FIN#positive Nhà đầu tư ngoại tâm sự từng bị “lùa gà” và “kẹp hàng” khi đầu tư chứng khoán Việt Nam
+__label__FIN#positive "VnIndex tăng tiếp 8 điểm, cổ phiếu ngân hàng đồng loạt ""phi"" mạnh"
+__label__FIN#positive Nhóm Dragon Capital nâng sở hữu tại FPT lên trên 5% khi cổ phiếu lập đỉnh mới
+__label__FIN#neutral Góc nhìn thị trường: Rung lắc mạnh tại vùng 1.320 điểm?
+__label__FIN#neutral Lịch sự kiện và tin vắn chứng khoán ngày 26/5
+__label__FIN#positive Phục Hưng Holdings (PHC) dự kiến phát hành gần 25 triệu cổ phiếu trả cổ tức và chào bán cổ phiếu ra công chúng
+__label__FIN#positive PHS: Miếng bánh chung ngành VLXD sẽ lớn hơn trong năm 2021 và tất cả đều có phần
+__label__FIN#positive Thép Nam Kim (NKG): Cổ phiếu bật tăng mạnh trở lại, thêm một Phó Tổng muốn bán phần lớn cổ phần
+__label__FIN#neutral Chọn sai cổ phiếu, nhiều nhà đầu tư vẫn thua lỗ bất chấp thị trường vượt đỉnh
+__label__FIN#negative Chủ tịch Nam Long (NLG) đăng ký bán bớt 1,3 triệu cổ phiếu
+__label__FIN#neutral Lịch chốt quyền nhận cổ tức bằng tiền của 12 doanh nghiệp
+__label__FIN#positive CEO Nguyễn Văn Tuấn đăng ký mua 30 triệu cổ phiếu Gelex (GEX)
+__label__FIN#positive Khối ngoại bán ròng thấp nhất trong 11 phiên, VN-Index vượt 1.300 điểm
+__label__FIN#positive Thế giới Di động (MWG): Lợi nhuận 4 tháng đầu năm tăng 26% lên 1.691 tỷ đồng, Điện Máy Xanh sẽ bán thêm xe đạp từ tháng 5/2021
+__label__FIN#neutral Một doanh nghiệp bến xe lãi hàng chục tỷ mỗi năm, thường xuyên trả cổ tức tỷ lệ cao, thị giá cổ phiếu luôn thuộc TOP trên
+__label__FIN#positive Quỹ Hàn Quốc trở thành cổ đông lớn tại Đông Hải Bến Tre (DHC)
+__label__FIN#neutral Gilimex (GIL): Cổ phiếu phản ứng cực mạnh trước thông tin phát hành giá rẻ chỉ 35.000 đồng/cp, ban lãnh đạo nói gì?
+__label__FIN#positive Cổ phiếu ngân hàng, chứng khoán “dậy sóng”, VN-Index vượt xa mốc 1.300 điểm, thiết lập đỉnh cao mới
+__label__FIN#positive Gelex chào bán 293 triệu cổ phiếu cho cổ đông hiện hữu, dự kiến huy động 3.500 tỷ đồng
+__label__FIN#negative ĐHĐCĐ Lộc Trời (LTG): Kế hoạch doanh thu tăng đột biến lên hơn 14.100 tỷ nhưng lợi nhuận chỉ tăng nhẹ lên 400 tỷ đồng
+__label__FIN#neutral DIG, CKG, VIB, C47, PVL, ADS, DHC, HVH, ICN, KSH, KSK,SSG, LMC, MQN: Thông tin giao dịch lượng lớn cổ phiếu
+__label__FIN#positive "Thaiholdings lộ rõ kế hoạch 2021, lợi nhuận tăng ""nóng"""
+__label__FIN#neutral Công ty chứng khoán nói gì sau khi VN-Index áp sát mốc 1.300 điểm?
+__label__FIN#neutral Lịch sự kiện và tin vắn chứng khoán ngày 25/5
+__label__FIN#positive Chuyên gia quốc tế: Thị trường Việt Nam và Trung Quốc là lựa chọn hàng đầu của chúng tôi khi đầu tư cổ phiếu
+__label__FIN#positive Thủy điện Thác Mơ (TMP) trả tiếp cổ tức đợt 2 bằng tiền kỷ lục 45%
+__label__FIN#positive Thuduc House (TDH): Cổ phiếu bị đưa vào diện cảnh báo từ ngày 28/5/2021
+__label__FIN#positive Chủ quản bút bi Thiên Long đặt kế hoạch lãi 280 tỷ trong năm 2021, tăng cường kênh bán hàng trên các trang TMĐT
+__label__FIN#positive Điện mặt trời áp mái và tầm nhìn phát triển bền vững của Tập đoàn Sơn Hà
+__label__FIN#positive Vừa trả cổ tức bằng tiền tỷ lệ 20%, Tổng công ty Bảo Minh lại triển khai phương án phát hành cổ phiếu thưởng tỷ lệ 20%
+__label__FIN#negative Phiên 24/5: Khối ngoại tiếp tục bán ròng 670 tỷ đồng, tập trung bán HPG, FUEVFVND và CTG
+__label__FIN#positive Tập đoàn Hoa Sen (HSG) chốt danh sách cổ đông phát hành hơn 44 triệu cổ phiếu trả cổ tức
+__label__FIN#positive Cao su Phước Hòa (PHR) dự kiến chia cổ tức bằng tiền kỷ lục 45%
+__label__FIN#neutral Quỹ ngoại mua bán cổ phiếu nào trong tháng 5?
+__label__FIN#positive Nếu áp dụng IFRS, lợi nhuận của Vincom Retail có thể tăng thêm nghìn tỷ đồng mỗi năm
+__label__FIN#positive VnIndex lên sát ngưỡng 1.300 điểm, HNX-Index lập đỉnh cao lịch sử mới
+__label__FIN#positive Một cổ phiếu ngành ngân hàng tăng 30% trong vòng 3 phiên giao dịch
+__label__FIN#positive Tổng công ty Bảo Minh (BMI) chốt danh sách cổ đông trả cổ tức bằng tiền tỷ lệ 20%
+__label__FIN#positive VDSC: Dòng tiền bán hàng năm 2021 của Novaland ước đạt 24.000 tỷ đồng, dự chi 13.000 tỷ mua dự án ngoài khu vực Tp.HCM
+__label__FIN#neutral Lịch chốt quyền nhận cổ tức bằng tiền của 7 doanh nghiệp
+__label__FIN#positive "Chứng khoán Bản Việt (VCI): Tiếp tục phát hành 500 tỷ trái phiếu, tính từ đầu năm đã ""hút"" 1.250 tỷ đồng"
+__label__FIN#positive Giá thép tăng ảnh hưởng tới sự tăng trưởng của cả nền kinh tế
+__label__FIN#neutral Lịch sự kiện và tin vắn chứng khoán ngày 24/5
+__label__FIN#neutral CEO HAGL Võ Trường Sơn bị xử phạt vì không đăng ký bán cổ phiếu HNG đợt cuối năm 2020
+__label__FIN#positive Chứng khoán SSI: Sắp chào bán 1,5 triệu cổ phiếu quỹ cho nhân viên, giá 10.000 đồng/cp
+__label__FIN#neutral Thị trường duy trì xu hướng tích cực, dòng tiền hướng tới cổ phiếu midcaps?
+__label__FIN#positive Bứt phá ngoạn mục, VN-Index nằm trong top những chỉ số chứng khoán tăng mạnh nhất Thế giới từ đầu năm
+__label__FIN#neutral Xu thế dòng tiền: Đã đến thời của các cổ phiếu nhỏ?
+__label__FIN#neutral Có 200 triệu đầu tư chứng khoán thế nào để hơn gửi ngân hàng?
+__label__FIN#positive Mất 3 năm VN-Index mới trở lại đỉnh cũ nhưng nhiều cổ phiếu từng phải đu “đỉnh” vẫn cho mức sinh lợi hàng trăm %
+__label__FIN#negative Yeah1 (YEG): Từng chi đến 50.000 đồng/cp để trở thành cổ đông lớn, ái nữ nhà Tân Hiệp Phát muốn bán phần lớn cổ phần ở vùng giá hơn 20.000 đồng
+__label__FIN#positive Masan Consumer (MCH) chốt danh sách cổ đông trả cổ tức bằng tiền tỷ lệ 45%
+__label__FIN#positive "ĐHĐCĐ SSI: ""Khen ngợi CTCK thị phần số 1, nhưng không thỏa mãn với vị trí số 2"""
+__label__FIN#negative Khối ngoại bán ròng 1 tỷ USD trên TTCK Việt Nam từ đầu năm 2021, bằng tổng lượng bán ròng năm 2020 và 2016 cộng lại
+__label__FIN#positive Tính đầu cơ trên thị trường Chứng quyền có bảo đảm
+__label__FIN#neutral Hàng tỷ USD đã đổ về Masan từ thị trường vốn quốc tế, công lớn thuộc về hai nhân tố 8x
+__label__FIN#negative Cổ phiếu nhóm Viettel giảm mạnh dù thị trường lên đỉnh
+__label__FIN#negative Cổ phiếu lên đỉnh, con gái chủ tịch Haxaco (HAX) đăng ký bán toàn bộ cổ phiếu
+__label__FIN#positive FPT: Cổ phiếu bứt phá 59%, lãi ròng 4 tháng đầu năm tăng 20% lên mức 1.245 tỷ đồng
+__label__FIN#negative NLG, HDG, VIB, AAA, HPG, HDC, D2D, TCO, FMC, TSC, TEG, DRC: Thông tin giao dịch lượng lớn cổ phiếu
+__label__FIN#positive """Trùm"" logistics Sotrans lên kế hoạch tăng gấp đôi lợi nhuận lên 214 tỷ đồng"
+__label__FIN#neutral 8 sai lầm kể cả nhà đầu tư chứng khoán lâu năm cũng mắc phải
+__label__FIN#positive SP mua lại 49% cổ phần Skylar từ BCG Energy, xác định Việt Nam thị trường trọng điểm để đầu tư dự án năng lượng tái tạo
+__label__FIN#neutral Chủ tịch khẳng định “Ai bỏ KBC sau này ôm hận”, vì đâu Dragon Capital vẫn mạnh tay chốt lãi?
+__label__FIN#neutral Tiếp tục kéo dài thời hạn giảm giá dịch vụ chứng khoán đến hết năm 2021
+__label__FIN#neutral Điểm danh top 5 phần mềm phân tích chứng khoán
+__label__FIN#positive DIC Corp (DIG) dự kiến phát hành gần 60 triệu cổ phiếu trả cổ tức năm 2020
+__label__FIN#neutral Đầu tư chứng khoán 1 tỷ đồng, nhà đầu tư có thể lãi cả trăm tỷ đồng nếu liên tục duy trì tỷ suất lợi nhuận 20-30%/năm
+__label__FIN#negative Phiên 21/5: Khối ngoại tiếp tục bán ròng hơn 175 tỷ đồng, tập trung bán HPG
+__label__FIN#neutral Nghe theo khuyến nghị mua cổ phiếu “tốt” vì sao vẫn thua lỗ nặng giữa uptrend?
+__label__FIN#positive Vinamilk chuẩn bị chi 2.300 tỷ đồng trả cổ tức cho cổ đông
+__label__FIN#positive Thanh khoản thị trường tăng mạnh, HoSE báo lãi kỷ lục 553 tỷ đồng trong năm 2020
+__label__FIN#neutral "Soi lợi nhuận quý 1 của các cổ phiếu ""hàng hiệu"""
+__label__FIN#positive Gilimex (GIL) bất ngờ trình phương án chào bán riêng lẻ 16,8 triệu cổ phiếu với giá 35.000 đồng/cp, bằng nửa giá thị trường
+__label__FIN#positive BID trần, PLX tăng mạnh cuối phiên, VnIndex lên ngưỡng 1.284 điểm
+__label__FIN#neutral Điểm danh những doanh nghiệp chốt quyền nhận cổ tức bằng tiền, bằng cổ phiếu và cổ phiếu thưởng tuần từ 24/5-28/5
+__label__FIN#neutral Lịch chốt quyền nhận cổ tức bằng tiền của 8 doanh nghiệp
+__label__FIN#neutral VC1, TID, DDV, TIX, CVT, AGG, GMD, DBT, ILA: Thông tin giao dịch lượng lớn cổ phiếu
+__label__FIN#neutral Lịch sự kiện và tin vắn chứng khoán ngày 21/5
+__label__FIN#positive Dược phẩm Imexpharm (IMP): Lợi nhuận quý 1/2021 đạt 42 tỷ đồng, chuẩn bị chia cổ tức bằng tiền tỷ lệ 15%
+__label__FIN#positive Chứng khoán Bản Việt (VCI) chuẩn bị phát hành cổ phiếu thưởng tỷ lệ 1:1
+__label__FIN#positive "Becamex IDC (BCM): Liên tiếp huy động 3.500 tỷ đồng trái phiếu, một phần sẽ dùng ""đảo"" nợ gốc lãi tại ngân hàng"
+__label__FIN#positive Mặc cho chỉ số Vndiamond tăng gần 3%, chứng chỉ Diamond ETF chỉ tăng vỏn vẹn 0,6% trong phiên 20/5
+__label__FIN#neutral VCBS Mobile: Trải nghiệm mới, thông minh và tiện lợi hơn trong giao dịch chứng khoán
+__label__FIN#neutral VN30-Index vượt 1.400 điểm và bỏ xa VN-Index, tuy nhiên rủi ro dần tăng lên?
+__label__FIN#positive Giấy Việt Trì (GVT) chốt danh sách cổ đông trả cổ tức bằng tiền tỷ lệ 35%
+__label__FIN#positive Vĩnh Hoàn (VHC): Doanh thu tháng 4/2021 đạt 800 tỷ đồng, các thị trường xuất khẩu đồng loạt tăng tốt
+__label__FIN#positive Công ty Cổ phần Bệnh viện Quốc tế Thái Nguyên và câu chuyện tìm vốn trên thị trường để phát triển chuỗi bệnh viện phục vụ được số đông người dân
+__label__FIN#neutral VNM ETF sẽ thêm mới PDR, VCI, APH và HSG trong kỳ review quý 2?
+__label__FIN#negative Thị trường tăng mạnh, khối ngoại vẫn bán ròng hơn 500 tỷ đồng trong phiên 20/5
+__label__FIN#positive Đầu tư Thành Thành Công đăng ký bán toàn bộ 54,5 triệu cổ phiếu Tổng công ty Tín Nghĩa (TID)
+__label__FIN#positive SSI trở thành công ty chứng khoán đầu tiên vốn hóa 1 tỷ USD
+__label__FIN#positive Cổ phiếu của công ty cung cấp sơn cho Hòa Phát, Hoa Sen tăng gần gấp đôi từ đầu năm
+__label__FIN#positive Thị trường thăng hoa, nhiều cổ phiếu “tỷ đô” vẫn ngược dòng giảm trong 5 tháng đầu năm
+__label__FIN#positive “Kéo” mạnh Bluechips trong phiên chiều, VN-Index bứt phá gần 16 điểm trong ngày đáo hạn phái sinh tháng 5
+__label__FIN#neutral "Cổ phiếu lao dốc không phanh, cổ đông muốn được ""bảo vệ"", Chủ tịch Coteccons nhắn nhủ: Kiên nhẫn sẽ hái quả ngọt!"
+__label__FIN#positive PNJ tăng hơn 95% lãi ròng sau 4 tháng lên mức 598 tỷ đồng, bán sỉ vàng miếng tăng trưởng mạnh đến 70%
+__label__FIN#negative Tăng trần 11 phiên, Nguyễn Kim đăng ký bán 9 triệu cổ phần Angimex (AGM)
+__label__FIN#positive Masan sẽ xem xét niêm yết The CrownX sau khi tích hợp kinh doanh giữa mảng tiêu dùng, chế biến thịt với hệ thống VinCommerce đạt kỳ vọng
+__label__FIN#neutral Lịch sự kiện và tin vắn chứng khoán ngày 20/5
+__label__FIN#positive "Kinh Bắc City (KBC) tiếp tục ""hút"" 1.000 tỷ trái phiếu trong quý 2/2021"
