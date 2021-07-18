@@ -8,6 +8,8 @@ Tin tức từ Cafef, 2019-12-31 - 2021-07-15: [link](https://github.com/DangNgu
 
 Tin tức từ VNExpress, 2019-12-31 - 2021-07-15:[link](https://github.com/DangNguyenTranNgoc/Stock-Market-Prediction-using-Prior-Knowledge/blob/main/data/news_vnexpress.csv)
 
+File data đã gộp [link](https://github.com/DangNguyenTranNgoc/Stock-Market-Prediction-using-Prior-Knowledge/blob/main/data/summary.csv)
+
 ## CODE
 
 Crawler [link](https://github.com/DangNguyenTranNgoc/Stock-Market-Prediction-using-Prior-Knowledge/tree/main/code/crawler)
