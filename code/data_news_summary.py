@@ -11,16 +11,26 @@ VNINDEX_FILE = 'vnindex.pkl'
 CAFEF_FILE = 'news_cafef_scored.csv'
 VNEXPRESS_FILE = 'news_vnexpress_scored.csv'
 
-def remove_weekend(data: pd.DataFrame):
+def remove_unnessessary(data: pd.DataFrame):
     '''
     Remove weekend from DataFrame
     Ex: if df.iloc[0]['DateTime'].weekday() > 5:
             df.drop(index)
     '''
+    data.drop(columns=['Title','ShortContent'], inplace=True)
     data['DateTime'] = pd.to_datetime(data['DateTime']).dt.date
     for index, row in data.iterrows():
         if row['DateTime'].weekday() >= 5:
             data.drop(index, inplace=True)
+
+def summary_sentiment_score(data: pd.DataFrame, name: str):
+    '''
+    '''
+    df = data.groupby(['DateTime'], as_index=False) \
+           .apply(lambda d: d['Sentiment'].sum() / d['Sentiment'].count())
+
+    df.columns = ['DateTime', name]
+    return df
 
 def main():
     '''
@@ -33,12 +43,12 @@ def main():
     vnexpress_df = pd.read_csv('{}{}{}'.format(DATA_FOLDER, os.sep, VNEXPRESS_FILE), index_col=0)
 
     # Remove weekend from news
-    remove_weekend(cafef_df)
-    remove_weekend(vnexpress_df)
+    remove_unnessessary(cafef_df)
+    remove_unnessessary(vnexpress_df)
 
     # Sum the sentiments score by day
-    cafef_df = cafef_df.groupby('DateTime')['Sentiment'].sum().reset_index(name='cafef')
-    vnexpress_df = vnexpress_df.groupby('DateTime')['Sentiment'].sum().reset_index(name='vnexpress')
+    cafef_df = summary_sentiment_score(cafef_df, 'cafef')
+    vnexpress_df = summary_sentiment_score(vnexpress_df, 'vnexpress')
 
     # Merge two news data
     summary_df = cafef_df.merge(vnexpress_df)
